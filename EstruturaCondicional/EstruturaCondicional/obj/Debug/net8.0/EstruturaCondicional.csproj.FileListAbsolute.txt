@@ -1,0 +1,14 @@
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.exe
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.deps.json
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.dll
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.pdb
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.dll
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\refint\EstruturaCondicional.dll
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.pdb
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\ref\EstruturaCondicional.dll

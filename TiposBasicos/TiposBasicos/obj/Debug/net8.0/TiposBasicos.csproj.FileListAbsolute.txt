@@ -1,0 +1,14 @@
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\bin\Debug\net8.0\TiposBasicos.exe
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\bin\Debug\net8.0\TiposBasicos.deps.json
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\bin\Debug\net8.0\TiposBasicos.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\bin\Debug\net8.0\TiposBasicos.dll
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\bin\Debug\net8.0\TiposBasicos.pdb
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.dll
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\obj\Debug\net8.0\refint\TiposBasicos.dll
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.pdb
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\TiposBasicos\TiposBasicos\obj\Debug\net8.0\ref\TiposBasicos.dll

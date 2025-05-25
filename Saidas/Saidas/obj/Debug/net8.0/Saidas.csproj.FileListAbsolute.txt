@@ -1,0 +1,14 @@
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\obj\Debug\net8.0\Saidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\obj\Debug\net8.0\Saidas.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\obj\Debug\net8.0\Saidas.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\obj\Debug\net8.0\Saidas.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\bin\Debug\net8.0\Saidas.exe
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\bin\Debug\net8.0\Saidas.deps.json
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\bin\Debug\net8.0\Saidas.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\bin\Debug\net8.0\Saidas.dll
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\bin\Debug\net8.0\Saidas.pdb
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\obj\Debug\net8.0\Saidas.dll
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\obj\Debug\net8.0\refint\Saidas.dll
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\obj\Debug\net8.0\Saidas.pdb
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\obj\Debug\net8.0\Saidas.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\Saidas\Saidas\obj\Debug\net8.0\ref\Saidas.dll

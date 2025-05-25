@@ -1,0 +1,14 @@
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\bin\Debug\net8.0\EnquantoWhile.exe
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\bin\Debug\net8.0\EnquantoWhile.deps.json
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\bin\Debug\net8.0\EnquantoWhile.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\bin\Debug\net8.0\EnquantoWhile.dll
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\bin\Debug\net8.0\EnquantoWhile.pdb
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\obj\Debug\net8.0\EnquantoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\obj\Debug\net8.0\EnquantoWhile.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\obj\Debug\net8.0\EnquantoWhile.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\obj\Debug\net8.0\EnquantoWhile.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\obj\Debug\net8.0\EnquantoWhile.dll
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\obj\Debug\net8.0\refint\EnquantoWhile.dll
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\obj\Debug\net8.0\EnquantoWhile.pdb
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\obj\Debug\net8.0\EnquantoWhile.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EnquantoWhile\EnquantoWhile\obj\Debug\net8.0\ref\EnquantoWhile.dll

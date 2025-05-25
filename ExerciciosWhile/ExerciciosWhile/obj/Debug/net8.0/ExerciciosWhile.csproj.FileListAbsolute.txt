@@ -1,0 +1,14 @@
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.exe
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.deps.json
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.dll
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.pdb
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.dll
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\refint\ExerciciosWhile.dll
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.pdb
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ref\ExerciciosWhile.dll

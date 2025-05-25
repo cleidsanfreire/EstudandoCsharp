@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\CourseFuncao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F63AE6F9-60A0-42AE-A114-43C7A10C8E54}|CourseFuncao\\CourseFuncao.csproj|c:\\users\\loock\\visualstudioprojetos\\coursefuncao\\coursefuncao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63AE6F9-60A0-42AE-A114-43C7A10C8E54}|CourseFuncao\\CourseFuncao.csproj|solutionrelative:coursefuncao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\CourseFuncao\\CourseFuncao\\Program.cs",
+              "RelativeDocumentMoniker": "CourseFuncao\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\CourseFuncao\\CourseFuncao\\Program.cs",
+              "RelativeToolTip": "CourseFuncao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:58:41.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

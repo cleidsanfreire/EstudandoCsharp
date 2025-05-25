@@ -1,0 +1,14 @@
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\bin\Debug\net8.0\CourseFuncao.exe
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\bin\Debug\net8.0\CourseFuncao.deps.json
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\bin\Debug\net8.0\CourseFuncao.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\bin\Debug\net8.0\CourseFuncao.dll
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\bin\Debug\net8.0\CourseFuncao.pdb
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\obj\Debug\net8.0\CourseFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\obj\Debug\net8.0\CourseFuncao.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\obj\Debug\net8.0\CourseFuncao.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\obj\Debug\net8.0\CourseFuncao.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\obj\Debug\net8.0\CourseFuncao.dll
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\obj\Debug\net8.0\refint\CourseFuncao.dll
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\obj\Debug\net8.0\CourseFuncao.pdb
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\obj\Debug\net8.0\CourseFuncao.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\CourseFuncao\CourseFuncao\obj\Debug\net8.0\ref\CourseFuncao.dll

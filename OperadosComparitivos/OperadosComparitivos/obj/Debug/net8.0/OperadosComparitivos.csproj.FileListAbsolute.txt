@@ -1,0 +1,14 @@
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\bin\Debug\net8.0\OperadosComparitivos.exe
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\bin\Debug\net8.0\OperadosComparitivos.deps.json
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\bin\Debug\net8.0\OperadosComparitivos.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\bin\Debug\net8.0\OperadosComparitivos.dll
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\bin\Debug\net8.0\OperadosComparitivos.pdb
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\obj\Debug\net8.0\OperadosComparitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\obj\Debug\net8.0\OperadosComparitivos.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\obj\Debug\net8.0\OperadosComparitivos.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\obj\Debug\net8.0\OperadosComparitivos.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\obj\Debug\net8.0\OperadosComparitivos.dll
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\obj\Debug\net8.0\refint\OperadosComparitivos.dll
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\obj\Debug\net8.0\OperadosComparitivos.pdb
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\obj\Debug\net8.0\OperadosComparitivos.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\OperadosComparitivos\OperadosComparitivos\obj\Debug\net8.0\ref\OperadosComparitivos.dll
