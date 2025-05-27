@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\bin\Debug\net8.0\ExerciciosParaFOR.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\bin\Debug\net8.0\ExerciciosParaFOR.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\bin\Debug\net8.0\ExerciciosParaFOR.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\bin\Debug\net8.0\ExerciciosParaFOR.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\bin\Debug\net8.0\ExerciciosParaFOR.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\obj\Debug\net8.0\ExerciciosParaFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\obj\Debug\net8.0\ExerciciosParaFOR.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\obj\Debug\net8.0\ExerciciosParaFOR.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\obj\Debug\net8.0\ExerciciosParaFOR.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\obj\Debug\net8.0\ExerciciosParaFOR.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\obj\Debug\net8.0\ExerciciosParaFOR.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\obj\Debug\net8.0\refint\ExerciciosParaFOR.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\obj\Debug\net8.0\ExerciciosParaFOR.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\obj\Debug\net8.0\ExerciciosParaFOR.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosParaFOR\ExerciciosParaFOR\obj\Debug\net8.0\ref\ExerciciosParaFOR.dll

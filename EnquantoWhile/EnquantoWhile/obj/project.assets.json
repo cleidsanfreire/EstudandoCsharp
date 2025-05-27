@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\loock\\VisualStudioProjetos\\EnquantoWhile\\EnquantoWhile\\EnquantoWhile.csproj",
+      "projectUniqueName": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\EnquantoWhile\\EnquantoWhile\\EnquantoWhile.csproj",
       "projectName": "EnquantoWhile",
-      "projectPath": "C:\\Users\\loock\\VisualStudioProjetos\\EnquantoWhile\\EnquantoWhile\\EnquantoWhile.csproj",
+      "projectPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\EnquantoWhile\\EnquantoWhile\\EnquantoWhile.csproj",
       "packagesPath": "C:\\Users\\loock\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\loock\\VisualStudioProjetos\\EnquantoWhile\\EnquantoWhile\\obj\\",
+      "outputPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\EnquantoWhile\\EnquantoWhile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

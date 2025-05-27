@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EnquantoWhile\\",
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\EnquantoWhile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1373DFA-6DB8-4214-9A13-2EE7E376D91A}|EnquantoWhile\\EnquantoWhile.csproj|c:\\users\\loock\\visualstudioprojetos\\enquantowhile\\enquantowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1373DFA-6DB8-4214-9A13-2EE7E376D91A}|EnquantoWhile\\EnquantoWhile.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\enquantowhile\\enquantowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1373DFA-6DB8-4214-9A13-2EE7E376D91A}|EnquantoWhile\\EnquantoWhile.csproj|solutionrelative:enquantowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EnquantoWhile\\EnquantoWhile\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\EnquantoWhile\\EnquantoWhile\\Program.cs",
               "RelativeDocumentMoniker": "EnquantoWhile\\Program.cs",
-              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EnquantoWhile\\EnquantoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\EnquantoWhile\\EnquantoWhile\\Program.cs",
               "RelativeToolTip": "EnquantoWhile\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T19:34:25.978Z",
               "EditorCaption": ""

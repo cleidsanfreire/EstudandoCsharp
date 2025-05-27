@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\bin\Debug\net8.0\EstruturaParaFOR.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\bin\Debug\net8.0\EstruturaParaFOR.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\bin\Debug\net8.0\EstruturaParaFOR.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\bin\Debug\net8.0\EstruturaParaFOR.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\bin\Debug\net8.0\EstruturaParaFOR.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\obj\Debug\net8.0\EstruturaParaFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\obj\Debug\net8.0\EstruturaParaFOR.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\obj\Debug\net8.0\EstruturaParaFOR.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\obj\Debug\net8.0\EstruturaParaFOR.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\obj\Debug\net8.0\EstruturaParaFOR.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\obj\Debug\net8.0\EstruturaParaFOR.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\obj\Debug\net8.0\refint\EstruturaParaFOR.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\obj\Debug\net8.0\EstruturaParaFOR.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\obj\Debug\net8.0\EstruturaParaFOR.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\EstruturaParaFOR\EstruturaParaFOR\obj\Debug\net8.0\ref\EstruturaParaFOR.dll

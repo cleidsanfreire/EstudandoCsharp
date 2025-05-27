@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnquantoWhile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a89871754d7d420c3e58a3b4609b6410815932a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnquantoWhile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnquantoWhile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
