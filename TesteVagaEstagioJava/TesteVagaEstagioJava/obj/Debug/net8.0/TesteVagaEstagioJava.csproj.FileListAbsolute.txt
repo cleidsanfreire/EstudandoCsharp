@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\bin\Debug\net8.0\TesteVagaEstagioJava.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\bin\Debug\net8.0\TesteVagaEstagioJava.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\bin\Debug\net8.0\TesteVagaEstagioJava.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\bin\Debug\net8.0\TesteVagaEstagioJava.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\bin\Debug\net8.0\TesteVagaEstagioJava.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\obj\Debug\net8.0\TesteVagaEstagioJava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\obj\Debug\net8.0\TesteVagaEstagioJava.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\obj\Debug\net8.0\TesteVagaEstagioJava.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\obj\Debug\net8.0\TesteVagaEstagioJava.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\obj\Debug\net8.0\TesteVagaEstagioJava.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\obj\Debug\net8.0\TesteVagaEstagioJava.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\obj\Debug\net8.0\refint\TesteVagaEstagioJava.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\obj\Debug\net8.0\TesteVagaEstagioJava.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\obj\Debug\net8.0\TesteVagaEstagioJava.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TesteVagaEstagioJava\TesteVagaEstagioJava\obj\Debug\net8.0\ref\TesteVagaEstagioJava.dll

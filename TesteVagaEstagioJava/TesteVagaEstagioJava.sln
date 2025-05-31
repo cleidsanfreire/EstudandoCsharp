@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteVagaEstagioJava", "TesteVagaEstagioJava\TesteVagaEstagioJava.csproj", "{846568A3-4CEC-49D3-AFF1-E44217B40669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{846568A3-4CEC-49D3-AFF1-E44217B40669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846568A3-4CEC-49D3-AFF1-E44217B40669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846568A3-4CEC-49D3-AFF1-E44217B40669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846568A3-4CEC-49D3-AFF1-E44217B40669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B206EEB-F3AF-4521-AA57-16C2CB9A906A}
+	EndGlobalSection
+EndGlobal

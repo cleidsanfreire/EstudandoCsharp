@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\bin\Debug\net8.0\AreaDoTrianguloSemOO.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\bin\Debug\net8.0\AreaDoTrianguloSemOO.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\bin\Debug\net8.0\AreaDoTrianguloSemOO.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\bin\Debug\net8.0\AreaDoTrianguloSemOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\bin\Debug\net8.0\AreaDoTrianguloSemOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\obj\Debug\net8.0\AreaDoTrianguloSemOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\obj\Debug\net8.0\AreaDoTrianguloSemOO.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\obj\Debug\net8.0\AreaDoTrianguloSemOO.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\obj\Debug\net8.0\AreaDoTrianguloSemOO.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\obj\Debug\net8.0\AreaDoTrianguloSemOO.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\obj\Debug\net8.0\AreaDoTrianguloSemOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\obj\Debug\net8.0\refint\AreaDoTrianguloSemOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\obj\Debug\net8.0\AreaDoTrianguloSemOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\obj\Debug\net8.0\AreaDoTrianguloSemOO.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloSemOO\AreaDoTrianguloSemOO\obj\Debug\net8.0\ref\AreaDoTrianguloSemOO.dll

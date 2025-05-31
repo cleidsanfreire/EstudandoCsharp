@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\bin\Debug\net8.0\ExerciciosPessoaOO.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\bin\Debug\net8.0\ExerciciosPessoaOO.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\bin\Debug\net8.0\ExerciciosPessoaOO.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\bin\Debug\net8.0\ExerciciosPessoaOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\bin\Debug\net8.0\ExerciciosPessoaOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\obj\Debug\net8.0\ExerciciosPessoaOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\obj\Debug\net8.0\ExerciciosPessoaOO.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\obj\Debug\net8.0\ExerciciosPessoaOO.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\obj\Debug\net8.0\ExerciciosPessoaOO.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\obj\Debug\net8.0\ExerciciosPessoaOO.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\obj\Debug\net8.0\ExerciciosPessoaOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\obj\Debug\net8.0\refint\ExerciciosPessoaOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\obj\Debug\net8.0\ExerciciosPessoaOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\obj\Debug\net8.0\ExerciciosPessoaOO.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosPessoaOO\ExerciciosPessoaOO\obj\Debug\net8.0\ref\ExerciciosPessoaOO.dll
