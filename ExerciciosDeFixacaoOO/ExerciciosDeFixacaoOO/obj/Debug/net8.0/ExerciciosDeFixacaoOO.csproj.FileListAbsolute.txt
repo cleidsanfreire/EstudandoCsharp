@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\bin\Debug\net8.0\ExerciciosDeFixacaoOO.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\bin\Debug\net8.0\ExerciciosDeFixacaoOO.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\bin\Debug\net8.0\ExerciciosDeFixacaoOO.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\bin\Debug\net8.0\ExerciciosDeFixacaoOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\bin\Debug\net8.0\ExerciciosDeFixacaoOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\obj\Debug\net8.0\ExerciciosDeFixacaoOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\obj\Debug\net8.0\ExerciciosDeFixacaoOO.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\obj\Debug\net8.0\ExerciciosDeFixacaoOO.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\obj\Debug\net8.0\ExerciciosDeFixacaoOO.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\obj\Debug\net8.0\ExerciciosDeFixacaoOO.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\obj\Debug\net8.0\ExerciciosDeFixacaoOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\obj\Debug\net8.0\refint\ExerciciosDeFixacaoOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\obj\Debug\net8.0\ExerciciosDeFixacaoOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\obj\Debug\net8.0\ExerciciosDeFixacaoOO.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciciosDeFixacaoOO\ExerciciosDeFixacaoOO\obj\Debug\net8.0\ref\ExerciciosDeFixacaoOO.dll

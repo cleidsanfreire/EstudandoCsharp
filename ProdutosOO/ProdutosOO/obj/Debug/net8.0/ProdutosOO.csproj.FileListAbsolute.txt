@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\bin\Debug\net8.0\ProdutosOO.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\bin\Debug\net8.0\ProdutosOO.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\bin\Debug\net8.0\ProdutosOO.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\bin\Debug\net8.0\ProdutosOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\bin\Debug\net8.0\ProdutosOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\obj\Debug\net8.0\ProdutosOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\obj\Debug\net8.0\ProdutosOO.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\obj\Debug\net8.0\ProdutosOO.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\obj\Debug\net8.0\ProdutosOO.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\obj\Debug\net8.0\ProdutosOO.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\obj\Debug\net8.0\ProdutosOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\obj\Debug\net8.0\refint\ProdutosOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\obj\Debug\net8.0\ProdutosOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\obj\Debug\net8.0\ProdutosOO.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ProdutosOO\ProdutosOO\obj\Debug\net8.0\ref\ProdutosOO.dll

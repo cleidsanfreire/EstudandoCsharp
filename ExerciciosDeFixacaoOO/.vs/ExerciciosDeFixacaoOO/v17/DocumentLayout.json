@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciciosDeFixacaoOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8433BACF-691E-472C-925F-BA55FF0512A7}|ExerciciosDeFixacaoOO\\ExerciciosDeFixacaoOO.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exerciciosdefixacaooo\\exerciciosdefixacaooo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8433BACF-691E-472C-925F-BA55FF0512A7}|ExerciciosDeFixacaoOO\\ExerciciosDeFixacaoOO.csproj|solutionrelative:exerciciosdefixacaooo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8433BACF-691E-472C-925F-BA55FF0512A7}|ExerciciosDeFixacaoOO\\ExerciciosDeFixacaoOO.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exerciciosdefixacaooo\\exerciciosdefixacaooo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8433BACF-691E-472C-925F-BA55FF0512A7}|ExerciciosDeFixacaoOO\\ExerciciosDeFixacaoOO.csproj|solutionrelative:exerciciosdefixacaooo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciciosDeFixacaoOO\\ExerciciosDeFixacaoOO\\Aluno.cs",
+              "RelativeDocumentMoniker": "ExerciciosDeFixacaoOO\\Aluno.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciciosDeFixacaoOO\\ExerciciosDeFixacaoOO\\Aluno.cs",
+              "RelativeToolTip": "ExerciciosDeFixacaoOO\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:02:21.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciciosDeFixacaoOO\\ExerciciosDeFixacaoOO\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosDeFixacaoOO\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciciosDeFixacaoOO\\ExerciciosDeFixacaoOO\\Program.cs",
+              "RelativeToolTip": "ExerciciosDeFixacaoOO\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T22:07:36.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

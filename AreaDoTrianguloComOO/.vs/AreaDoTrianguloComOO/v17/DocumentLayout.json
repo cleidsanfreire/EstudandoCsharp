@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AreaDoTrianguloComOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{398EBFC2-C08C-4AEE-83BD-41CC038D7BF3}|AreaDoTrianguloComOO\\AreaDoTrianguloComOO.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\areadotriangulocomoo\\areadotriangulocomoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398EBFC2-C08C-4AEE-83BD-41CC038D7BF3}|AreaDoTrianguloComOO\\AreaDoTrianguloComOO.csproj|solutionrelative:areadotriangulocomoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398EBFC2-C08C-4AEE-83BD-41CC038D7BF3}|AreaDoTrianguloComOO\\AreaDoTrianguloComOO.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\areadotriangulocomoo\\areadotriangulocomoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398EBFC2-C08C-4AEE-83BD-41CC038D7BF3}|AreaDoTrianguloComOO\\AreaDoTrianguloComOO.csproj|solutionrelative:areadotriangulocomoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AreaDoTrianguloComOO\\AreaDoTrianguloComOO\\Triangulo.cs",
+              "RelativeDocumentMoniker": "AreaDoTrianguloComOO\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AreaDoTrianguloComOO\\AreaDoTrianguloComOO\\Triangulo.cs",
+              "RelativeToolTip": "AreaDoTrianguloComOO\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:49:42.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AreaDoTrianguloComOO\\AreaDoTrianguloComOO\\Program.cs",
+              "RelativeDocumentMoniker": "AreaDoTrianguloComOO\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AreaDoTrianguloComOO\\AreaDoTrianguloComOO\\Program.cs",
+              "RelativeToolTip": "AreaDoTrianguloComOO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:49:25.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

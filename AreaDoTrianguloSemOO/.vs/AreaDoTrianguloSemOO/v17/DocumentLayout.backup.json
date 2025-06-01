@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AreaDoTrianguloSemOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3CB3BB3-2F84-4336-9934-3DAF90904A57}|AreaDoTrianguloSemOO\\AreaDoTrianguloSemOO.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\areadotriangulosemoo\\areadotriangulosemoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3CB3BB3-2F84-4336-9934-3DAF90904A57}|AreaDoTrianguloSemOO\\AreaDoTrianguloSemOO.csproj|solutionrelative:areadotriangulosemoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3CB3BB3-2F84-4336-9934-3DAF90904A57}|AreaDoTrianguloSemOO\\AreaDoTrianguloSemOO.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\areadotriangulosemoo\\areadotriangulosemoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3CB3BB3-2F84-4336-9934-3DAF90904A57}|AreaDoTrianguloSemOO\\AreaDoTrianguloSemOO.csproj|solutionrelative:areadotriangulosemoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CB3BB3-2F84-4336-9934-3DAF90904A57}|AreaDoTrianguloSemOO\\AreaDoTrianguloSemOO.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\areadotriangulosemoo\\areadotriangulosemoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CB3BB3-2F84-4336-9934-3DAF90904A57}|AreaDoTrianguloSemOO\\AreaDoTrianguloSemOO.csproj|solutionrelative:areadotriangulosemoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Triangulo.cs",
               "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AreaDoTrianguloSemOO\\AreaDoTrianguloSemOO\\Triangulo.cs",
               "RelativeDocumentMoniker": "AreaDoTrianguloSemOO\\Triangulo.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AreaDoTrianguloSemOO\\AreaDoTrianguloSemOO\\Program.cs",
               "RelativeDocumentMoniker": "AreaDoTrianguloSemOO\\Program.cs",

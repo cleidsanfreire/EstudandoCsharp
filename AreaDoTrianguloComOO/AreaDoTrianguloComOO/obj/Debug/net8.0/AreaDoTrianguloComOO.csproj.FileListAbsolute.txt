@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\bin\Debug\net8.0\AreaDoTrianguloComOO.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\bin\Debug\net8.0\AreaDoTrianguloComOO.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\bin\Debug\net8.0\AreaDoTrianguloComOO.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\bin\Debug\net8.0\AreaDoTrianguloComOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\bin\Debug\net8.0\AreaDoTrianguloComOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\obj\Debug\net8.0\AreaDoTrianguloComOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\obj\Debug\net8.0\AreaDoTrianguloComOO.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\obj\Debug\net8.0\AreaDoTrianguloComOO.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\obj\Debug\net8.0\AreaDoTrianguloComOO.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\obj\Debug\net8.0\AreaDoTrianguloComOO.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\obj\Debug\net8.0\AreaDoTrianguloComOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\obj\Debug\net8.0\refint\AreaDoTrianguloComOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\obj\Debug\net8.0\AreaDoTrianguloComOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\obj\Debug\net8.0\AreaDoTrianguloComOO.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AreaDoTrianguloComOO\AreaDoTrianguloComOO\obj\Debug\net8.0\ref\AreaDoTrianguloComOO.dll
