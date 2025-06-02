@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\CourseProdutosOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E783EC8-839F-411D-A356-405698023819}|CourseProdutosOO\\CourseProdutosOO.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\courseprodutosoo\\courseprodutosoo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E783EC8-839F-411D-A356-405698023819}|CourseProdutosOO\\CourseProdutosOO.csproj|solutionrelative:courseprodutosoo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E783EC8-839F-411D-A356-405698023819}|CourseProdutosOO\\CourseProdutosOO.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\courseprodutosoo\\courseprodutosoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E783EC8-839F-411D-A356-405698023819}|CourseProdutosOO\\CourseProdutosOO.csproj|solutionrelative:courseprodutosoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\CourseProdutosOO\\CourseProdutosOO\\Produto.cs",
+              "RelativeDocumentMoniker": "CourseProdutosOO\\Produto.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\CourseProdutosOO\\CourseProdutosOO\\Produto.cs",
+              "RelativeToolTip": "CourseProdutosOO\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:18:41.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\CourseProdutosOO\\CourseProdutosOO\\Program.cs",
+              "RelativeDocumentMoniker": "CourseProdutosOO\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\CourseProdutosOO\\CourseProdutosOO\\Program.cs",
+              "RelativeToolTip": "CourseProdutosOO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:18:15.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

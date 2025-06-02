@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\bin\Debug\net8.0\CourseProdutosOO.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\bin\Debug\net8.0\CourseProdutosOO.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\bin\Debug\net8.0\CourseProdutosOO.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\bin\Debug\net8.0\CourseProdutosOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\bin\Debug\net8.0\CourseProdutosOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\obj\Debug\net8.0\CourseProdutosOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\obj\Debug\net8.0\CourseProdutosOO.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\obj\Debug\net8.0\CourseProdutosOO.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\obj\Debug\net8.0\CourseProdutosOO.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\obj\Debug\net8.0\CourseProdutosOO.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\obj\Debug\net8.0\CourseProdutosOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\obj\Debug\net8.0\refint\CourseProdutosOO.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\obj\Debug\net8.0\CourseProdutosOO.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\obj\Debug\net8.0\CourseProdutosOO.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseProdutosOO\CourseProdutosOO\obj\Debug\net8.0\ref\CourseProdutosOO.dll
