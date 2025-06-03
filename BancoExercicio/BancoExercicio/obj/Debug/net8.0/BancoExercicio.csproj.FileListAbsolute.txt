@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\bin\Debug\net8.0\BancoExercicio.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\bin\Debug\net8.0\BancoExercicio.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\bin\Debug\net8.0\BancoExercicio.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\bin\Debug\net8.0\BancoExercicio.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\bin\Debug\net8.0\BancoExercicio.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\obj\Debug\net8.0\BancoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\obj\Debug\net8.0\BancoExercicio.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\obj\Debug\net8.0\BancoExercicio.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\obj\Debug\net8.0\BancoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\obj\Debug\net8.0\BancoExercicio.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\obj\Debug\net8.0\BancoExercicio.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\obj\Debug\net8.0\refint\BancoExercicio.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\obj\Debug\net8.0\BancoExercicio.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\obj\Debug\net8.0\BancoExercicio.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\BancoExercicio\BancoExercicio\obj\Debug\net8.0\ref\BancoExercicio.dll

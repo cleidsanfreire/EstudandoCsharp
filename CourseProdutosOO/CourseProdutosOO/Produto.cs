@@ -9,16 +9,16 @@ namespace CourseProdutosOO
 {
     internal class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
 
         public Produto()
         {
         }
         public Produto(string nome, double preco) : this()
         {
-            Nome = nome;
+            _nome = nome;
             Preco = preco;
         }
 
@@ -27,9 +27,19 @@ namespace CourseProdutosOO
             Quantidade = quantidade;
         }
 
-        
-       
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+            }
+        }
 
+        
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;
@@ -48,9 +58,11 @@ namespace CourseProdutosOO
 
         public override string ToString()
         {
-            return $"{Nome}, R$ {Preco.ToString("F2", CultureInfo.InvariantCulture)}, " +
+            return $"{_nome}, R$ {Preco.ToString("F2", CultureInfo.InvariantCulture)}, " +
                    $"{Quantidade} unidades," +
                    $"Total: $ {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
         }
+
+
     }
 }
