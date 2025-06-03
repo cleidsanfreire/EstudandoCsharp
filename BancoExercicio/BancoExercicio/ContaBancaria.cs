@@ -12,23 +12,18 @@ namespace BancoExercicio
     {
         
 
-        public int Numero { get; set; }
+        public int Numero { get; private set; }
         public string Titular { get; set; }
         public double Saldo { get; private set; }
-
-        public ContaBancaria()
-        {
-        }
-
         public ContaBancaria(int numero, string titular)
         {
             Numero = numero;
             Titular = titular;
         }
 
-        public ContaBancaria(int numero, string titular, double saldo) : this(numero, titular)
+        public ContaBancaria(int numero, string titular, double depositoInicial) : this(numero, titular)
         {
-            Saldo = saldo;
+            Deposito(depositoInicial);
         }
 
         public void Deposito(double quantia)
@@ -57,7 +52,9 @@ namespace BancoExercicio
 
         public override string ToString()
         {
-            return $"Conta {Numero}, Titular: {Titular}, Saldo: $ {Saldo.ToString("F2", CultureInfo.InvariantCulture)}";
+            return $"Conta {Numero}" +
+                $", Titular: {Titular}" +
+                $", Saldo: $ {Saldo.ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
