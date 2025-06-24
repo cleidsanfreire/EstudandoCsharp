@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\bin\Debug\net8.0\TestesExercices.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\bin\Debug\net8.0\TestesExercices.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\bin\Debug\net8.0\TestesExercices.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\bin\Debug\net8.0\TestesExercices.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\bin\Debug\net8.0\TestesExercices.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\obj\Debug\net8.0\TestesExercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\obj\Debug\net8.0\TestesExercices.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\obj\Debug\net8.0\TestesExercices.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\obj\Debug\net8.0\TestesExercices.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\obj\Debug\net8.0\TestesExercices.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\obj\Debug\net8.0\TestesExercices.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\obj\Debug\net8.0\refint\TestesExercices.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\obj\Debug\net8.0\TestesExercices.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\obj\Debug\net8.0\TestesExercices.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TestesExercices\TestesExercices\obj\Debug\net8.0\ref\TestesExercices.dll

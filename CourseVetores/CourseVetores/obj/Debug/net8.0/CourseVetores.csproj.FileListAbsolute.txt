@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\bin\Debug\net8.0\CourseVetores.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\bin\Debug\net8.0\CourseVetores.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\bin\Debug\net8.0\CourseVetores.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\bin\Debug\net8.0\CourseVetores.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\bin\Debug\net8.0\CourseVetores.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\obj\Debug\net8.0\CourseVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\obj\Debug\net8.0\CourseVetores.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\obj\Debug\net8.0\CourseVetores.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\obj\Debug\net8.0\CourseVetores.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\obj\Debug\net8.0\CourseVetores.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\obj\Debug\net8.0\CourseVetores.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\obj\Debug\net8.0\refint\CourseVetores.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\obj\Debug\net8.0\CourseVetores.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\obj\Debug\net8.0\CourseVetores.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseVetores\CourseVetores\obj\Debug\net8.0\ref\CourseVetores.dll

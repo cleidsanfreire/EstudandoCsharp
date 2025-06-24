@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\bin\Debug\net8.0\CourseExercicioDeFixacao.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\bin\Debug\net8.0\CourseExercicioDeFixacao.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\bin\Debug\net8.0\CourseExercicioDeFixacao.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\bin\Debug\net8.0\CourseExercicioDeFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\bin\Debug\net8.0\CourseExercicioDeFixacao.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\obj\Debug\net8.0\CourseExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\obj\Debug\net8.0\CourseExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\obj\Debug\net8.0\CourseExercicioDeFixacao.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\obj\Debug\net8.0\CourseExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\obj\Debug\net8.0\CourseExercicioDeFixacao.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\obj\Debug\net8.0\CourseExercicioDeFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\obj\Debug\net8.0\refint\CourseExercicioDeFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\obj\Debug\net8.0\CourseExercicioDeFixacao.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\obj\Debug\net8.0\CourseExercicioDeFixacao.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseExercicioDeFixacao\CourseExercicioDeFixacao\obj\Debug\net8.0\ref\CourseExercicioDeFixacao.dll

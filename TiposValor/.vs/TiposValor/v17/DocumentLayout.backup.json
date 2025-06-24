@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\TiposValor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7ED00-697F-44E3-A5D3-935E328E1322}|TiposValor\\TiposValor.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\tiposvalor\\tiposvalor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7ED00-697F-44E3-A5D3-935E328E1322}|TiposValor\\TiposValor.csproj|solutionrelative:tiposvalor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7ED00-697F-44E3-A5D3-935E328E1322}|TiposValor\\TiposValor.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\tiposvalor\\tiposvalor\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7ED00-697F-44E3-A5D3-935E328E1322}|TiposValor\\TiposValor.csproj|solutionrelative:tiposvalor\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\TiposValor\\TiposValor\\Point.cs",
+              "RelativeDocumentMoniker": "TiposValor\\Point.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\TiposValor\\TiposValor\\Point.cs",
+              "RelativeToolTip": "TiposValor\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:22:26.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\TiposValor\\TiposValor\\Program.cs",
+              "RelativeDocumentMoniker": "TiposValor\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\TiposValor\\TiposValor\\Program.cs*",
+              "RelativeToolTip": "TiposValor\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:22:07.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

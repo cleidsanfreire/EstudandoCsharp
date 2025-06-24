@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\bin\Debug\net8.0\TiposValor.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\bin\Debug\net8.0\TiposValor.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\bin\Debug\net8.0\TiposValor.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\bin\Debug\net8.0\TiposValor.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\bin\Debug\net8.0\TiposValor.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\obj\Debug\net8.0\TiposValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\obj\Debug\net8.0\TiposValor.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\obj\Debug\net8.0\TiposValor.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\obj\Debug\net8.0\TiposValor.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\obj\Debug\net8.0\TiposValor.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\obj\Debug\net8.0\TiposValor.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\obj\Debug\net8.0\refint\TiposValor.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\obj\Debug\net8.0\TiposValor.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\obj\Debug\net8.0\TiposValor.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TiposValor\TiposValor\obj\Debug\net8.0\ref\TiposValor.dll

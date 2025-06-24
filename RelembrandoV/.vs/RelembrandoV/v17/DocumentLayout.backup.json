@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\RelembrandoV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A1E99F-4FF6-4182-A0EC-372CB05B3850}|RelembrandoV\\RelembrandoV.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\relembrandov\\relembrandov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A1E99F-4FF6-4182-A0EC-372CB05B3850}|RelembrandoV\\RelembrandoV.csproj|solutionrelative:relembrandov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A1E99F-4FF6-4182-A0EC-372CB05B3850}|RelembrandoV\\RelembrandoV.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\relembrandov\\relembrandov\\quartos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A1E99F-4FF6-4182-A0EC-372CB05B3850}|RelembrandoV\\RelembrandoV.csproj|solutionrelative:relembrandov\\quartos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quartos.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\RelembrandoV\\RelembrandoV\\Quartos.cs",
+              "RelativeDocumentMoniker": "RelembrandoV\\Quartos.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\RelembrandoV\\RelembrandoV\\Quartos.cs",
+              "RelativeToolTip": "RelembrandoV\\Quartos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:55:27.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\RelembrandoV\\RelembrandoV\\Program.cs",
+              "RelativeDocumentMoniker": "RelembrandoV\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\RelembrandoV\\RelembrandoV\\Program.cs",
+              "RelativeToolTip": "RelembrandoV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:50:30Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

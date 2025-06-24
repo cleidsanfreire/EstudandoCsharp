@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\bin\Debug\net8.0\RelembrandoV.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\bin\Debug\net8.0\RelembrandoV.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\bin\Debug\net8.0\RelembrandoV.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\bin\Debug\net8.0\RelembrandoV.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\bin\Debug\net8.0\RelembrandoV.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\obj\Debug\net8.0\RelembrandoV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\obj\Debug\net8.0\RelembrandoV.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\obj\Debug\net8.0\RelembrandoV.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\obj\Debug\net8.0\RelembrandoV.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\obj\Debug\net8.0\RelembrandoV.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\obj\Debug\net8.0\RelembrandoV.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\obj\Debug\net8.0\refint\RelembrandoV.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\obj\Debug\net8.0\RelembrandoV.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\obj\Debug\net8.0\RelembrandoV.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RelembrandoV\RelembrandoV\obj\Debug\net8.0\ref\RelembrandoV.dll

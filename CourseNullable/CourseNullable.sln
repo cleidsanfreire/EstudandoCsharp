@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseNullable", "CourseNullable\CourseNullable.csproj", "{13209C54-7D50-4C7B-B9BB-D97B9FD461D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13209C54-7D50-4C7B-B9BB-D97B9FD461D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13209C54-7D50-4C7B-B9BB-D97B9FD461D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13209C54-7D50-4C7B-B9BB-D97B9FD461D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13209C54-7D50-4C7B-B9BB-D97B9FD461D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8A3DCEF-593F-44DC-BFCA-B8BD40829A82}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\bin\Debug\net8.0\CourseNullable.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\bin\Debug\net8.0\CourseNullable.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\bin\Debug\net8.0\CourseNullable.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\bin\Debug\net8.0\CourseNullable.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\bin\Debug\net8.0\CourseNullable.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\obj\Debug\net8.0\CourseNullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\obj\Debug\net8.0\CourseNullable.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\obj\Debug\net8.0\CourseNullable.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\obj\Debug\net8.0\CourseNullable.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\obj\Debug\net8.0\CourseNullable.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\obj\Debug\net8.0\CourseNullable.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\obj\Debug\net8.0\refint\CourseNullable.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\obj\Debug\net8.0\CourseNullable.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\obj\Debug\net8.0\CourseNullable.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\CourseNullable\CourseNullable\obj\Debug\net8.0\ref\CourseNullable.dll
