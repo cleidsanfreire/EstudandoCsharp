@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\bin\Debug\net8.0\MatrizExercice.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\bin\Debug\net8.0\MatrizExercice.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\bin\Debug\net8.0\MatrizExercice.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\bin\Debug\net8.0\MatrizExercice.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\bin\Debug\net8.0\MatrizExercice.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\obj\Debug\net8.0\MatrizExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\obj\Debug\net8.0\MatrizExercice.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\obj\Debug\net8.0\MatrizExercice.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\obj\Debug\net8.0\MatrizExercice.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\obj\Debug\net8.0\MatrizExercice.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\obj\Debug\net8.0\MatrizExercice.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\obj\Debug\net8.0\refint\MatrizExercice.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\obj\Debug\net8.0\MatrizExercice.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\obj\Debug\net8.0\MatrizExercice.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\MatrizExercice\MatrizExercice\obj\Debug\net8.0\ref\MatrizExercice.dll
