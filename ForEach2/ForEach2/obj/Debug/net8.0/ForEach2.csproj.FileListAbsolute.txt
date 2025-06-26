@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\bin\Debug\net8.0\ForEach2.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\bin\Debug\net8.0\ForEach2.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\bin\Debug\net8.0\ForEach2.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\bin\Debug\net8.0\ForEach2.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\bin\Debug\net8.0\ForEach2.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\obj\Debug\net8.0\ForEach2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\obj\Debug\net8.0\ForEach2.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\obj\Debug\net8.0\ForEach2.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\obj\Debug\net8.0\ForEach2.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\obj\Debug\net8.0\ForEach2.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\obj\Debug\net8.0\ForEach2.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\obj\Debug\net8.0\refint\ForEach2.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\obj\Debug\net8.0\ForEach2.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\obj\Debug\net8.0\ForEach2.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ForEach2\ForEach2\obj\Debug\net8.0\ref\ForEach2.dll

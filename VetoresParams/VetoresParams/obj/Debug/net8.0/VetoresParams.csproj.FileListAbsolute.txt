@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\bin\Debug\net8.0\VetoresParams.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\bin\Debug\net8.0\VetoresParams.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\bin\Debug\net8.0\VetoresParams.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\bin\Debug\net8.0\VetoresParams.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\bin\Debug\net8.0\VetoresParams.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\obj\Debug\net8.0\VetoresParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\obj\Debug\net8.0\VetoresParams.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\obj\Debug\net8.0\VetoresParams.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\obj\Debug\net8.0\VetoresParams.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\obj\Debug\net8.0\VetoresParams.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\obj\Debug\net8.0\VetoresParams.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\obj\Debug\net8.0\refint\VetoresParams.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\obj\Debug\net8.0\VetoresParams.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\obj\Debug\net8.0\VetoresParams.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\VetoresParams\VetoresParams\obj\Debug\net8.0\ref\VetoresParams.dll

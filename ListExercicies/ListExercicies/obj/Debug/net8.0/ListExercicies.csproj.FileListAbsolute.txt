@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\bin\Debug\net8.0\ListExercicies.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\bin\Debug\net8.0\ListExercicies.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\bin\Debug\net8.0\ListExercicies.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\bin\Debug\net8.0\ListExercicies.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\bin\Debug\net8.0\ListExercicies.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\obj\Debug\net8.0\ListExercicies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\obj\Debug\net8.0\ListExercicies.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\obj\Debug\net8.0\ListExercicies.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\obj\Debug\net8.0\ListExercicies.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\obj\Debug\net8.0\ListExercicies.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\obj\Debug\net8.0\ListExercicies.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\obj\Debug\net8.0\refint\ListExercicies.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\obj\Debug\net8.0\ListExercicies.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\obj\Debug\net8.0\ListExercicies.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ListExercicies\ListExercicies\obj\Debug\net8.0\ref\ListExercicies.dll

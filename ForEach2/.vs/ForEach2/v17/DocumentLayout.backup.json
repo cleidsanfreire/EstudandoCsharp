@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ForEach2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69738B-D2BB-464C-92D6-B73EA29E5B81}|ForEach2\\ForEach2.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\foreach2\\foreach2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD69738B-D2BB-464C-92D6-B73EA29E5B81}|ForEach2\\ForEach2.csproj|solutionrelative:foreach2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ForEach2\\ForEach2\\Program.cs",
+              "RelativeDocumentMoniker": "ForEach2\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ForEach2\\ForEach2\\Program.cs*",
+              "RelativeToolTip": "ForEach2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:48:15.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
