@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpanCourse.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpanCourse.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpanCourse.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpanCourse.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpanCourse.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpanCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpanCourse.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpanCourse.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpanCourse.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpanCourse.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpanCourse.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\obj\Debug\net8.0\refint\TimeSpanCourse.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpanCourse.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpanCourse.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TimeSpan\TimeSpan\obj\Debug\net8.0\ref\TimeSpanCourse.dll

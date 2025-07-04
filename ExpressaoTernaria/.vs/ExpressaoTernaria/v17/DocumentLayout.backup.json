@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExpressaoTernaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A78F38-89D3-49B3-B449-D481107BD7A1}|ExpressaoTernaria\\ExpressaoTernaria.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\expressaoternaria\\expressaoternaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A78F38-89D3-49B3-B449-D481107BD7A1}|ExpressaoTernaria\\ExpressaoTernaria.csproj|solutionrelative:expressaoternaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExpressaoTernaria\\ExpressaoTernaria\\Program.cs",
+              "RelativeDocumentMoniker": "ExpressaoTernaria\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExpressaoTernaria\\ExpressaoTernaria\\Program.cs",
+              "RelativeToolTip": "ExpressaoTernaria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T01:42:49.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

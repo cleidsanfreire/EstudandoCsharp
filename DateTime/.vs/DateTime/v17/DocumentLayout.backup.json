@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DateTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{390625C8-894E-4DED-8C19-10391D713871}|DateTime\\DateTime.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\datetime\\datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390625C8-894E-4DED-8C19-10391D713871}|DateTime\\DateTime.csproj|solutionrelative:datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DateTime\\DateTime\\Program.cs",
+              "RelativeDocumentMoniker": "DateTime\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DateTime\\DateTime\\Program.cs",
+              "RelativeToolTip": "DateTime\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T02:17:26.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

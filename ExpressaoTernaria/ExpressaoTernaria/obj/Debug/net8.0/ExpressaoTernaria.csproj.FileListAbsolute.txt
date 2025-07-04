@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\bin\Debug\net8.0\ExpressaoTernaria.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\bin\Debug\net8.0\ExpressaoTernaria.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\bin\Debug\net8.0\ExpressaoTernaria.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\bin\Debug\net8.0\ExpressaoTernaria.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\bin\Debug\net8.0\ExpressaoTernaria.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\obj\Debug\net8.0\ExpressaoTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\obj\Debug\net8.0\ExpressaoTernaria.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\obj\Debug\net8.0\ExpressaoTernaria.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\obj\Debug\net8.0\ExpressaoTernaria.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\obj\Debug\net8.0\ExpressaoTernaria.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\obj\Debug\net8.0\ExpressaoTernaria.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\obj\Debug\net8.0\refint\ExpressaoTernaria.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\obj\Debug\net8.0\ExpressaoTernaria.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\obj\Debug\net8.0\ExpressaoTernaria.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExpressaoTernaria\ExpressaoTernaria\obj\Debug\net8.0\ref\ExpressaoTernaria.dll

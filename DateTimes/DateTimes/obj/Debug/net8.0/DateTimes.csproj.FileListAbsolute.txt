@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\bin\Debug\net8.0\DateTimes.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\bin\Debug\net8.0\DateTimes.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\bin\Debug\net8.0\DateTimes.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\bin\Debug\net8.0\DateTimes.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\bin\Debug\net8.0\DateTimes.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\obj\Debug\net8.0\DateTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\obj\Debug\net8.0\DateTimes.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\obj\Debug\net8.0\DateTimes.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\obj\Debug\net8.0\DateTimes.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\obj\Debug\net8.0\DateTimes.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\obj\Debug\net8.0\DateTimes.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\obj\Debug\net8.0\refint\DateTimes.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\obj\Debug\net8.0\DateTimes.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\obj\Debug\net8.0\DateTimes.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DateTimes\DateTimes\obj\Debug\net8.0\ref\DateTimes.dll
