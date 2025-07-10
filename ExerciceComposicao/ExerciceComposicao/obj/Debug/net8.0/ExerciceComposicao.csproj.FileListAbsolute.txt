@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\bin\Debug\net8.0\ExerciceComposicao.exe
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\bin\Debug\net8.0\ExerciceComposicao.deps.json
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\bin\Debug\net8.0\ExerciceComposicao.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\bin\Debug\net8.0\ExerciceComposicao.dll
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\bin\Debug\net8.0\ExerciceComposicao.pdb
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\obj\Debug\net8.0\ExerciceComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\obj\Debug\net8.0\ExerciceComposicao.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\obj\Debug\net8.0\ExerciceComposicao.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\obj\Debug\net8.0\ExerciceComposicao.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\obj\Debug\net8.0\ExerciceComposicao.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\obj\Debug\net8.0\ExerciceComposicao.dll
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\obj\Debug\net8.0\refint\ExerciceComposicao.dll
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\obj\Debug\net8.0\ExerciceComposicao.pdb
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\obj\Debug\net8.0\ExerciceComposicao.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\ExerciceComposicao\ExerciceComposicao\obj\Debug\net8.0\ref\ExerciceComposicao.dll
