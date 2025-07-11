@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\bin\Debug\net8.0\ExerciceComposicao2.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\bin\Debug\net8.0\ExerciceComposicao2.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\bin\Debug\net8.0\ExerciceComposicao2.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\bin\Debug\net8.0\ExerciceComposicao2.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\bin\Debug\net8.0\ExerciceComposicao2.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\obj\Debug\net8.0\ExerciceComposicao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\obj\Debug\net8.0\ExerciceComposicao2.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\obj\Debug\net8.0\ExerciceComposicao2.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\obj\Debug\net8.0\ExerciceComposicao2.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\obj\Debug\net8.0\ExerciceComposicao2.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\obj\Debug\net8.0\ExerciceComposicao2.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\obj\Debug\net8.0\refint\ExerciceComposicao2.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\obj\Debug\net8.0\ExerciceComposicao2.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\obj\Debug\net8.0\ExerciceComposicao2.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceComposicao2\ExerciceComposicao2\obj\Debug\net8.0\ref\ExerciceComposicao2.dll
