@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\bin\Debug\net8.0\Abstratos.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\bin\Debug\net8.0\Abstratos.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\bin\Debug\net8.0\Abstratos.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\bin\Debug\net8.0\Abstratos.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\bin\Debug\net8.0\Abstratos.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\obj\Debug\net8.0\Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\obj\Debug\net8.0\Abstratos.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\obj\Debug\net8.0\Abstratos.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\obj\Debug\net8.0\Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\obj\Debug\net8.0\Abstratos.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\obj\Debug\net8.0\Abstratos.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\obj\Debug\net8.0\refint\Abstratos.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\obj\Debug\net8.0\Abstratos.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\obj\Debug\net8.0\Abstratos.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Abstratos\Abstratos\obj\Debug\net8.0\ref\Abstratos.dll

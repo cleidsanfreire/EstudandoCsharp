@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\Abstratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{920650D2-52EE-455B-942B-464B1C4178D5}|Abstratos\\Abstratos.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\abstratos\\abstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920650D2-52EE-455B-942B-464B1C4178D5}|Abstratos\\Abstratos.csproj|solutionrelative:abstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920650D2-52EE-455B-942B-464B1C4178D5}|Abstratos\\Abstratos.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\abstratos\\abstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920650D2-52EE-455B-942B-464B1C4178D5}|Abstratos\\Abstratos.csproj|solutionrelative:abstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920650D2-52EE-455B-942B-464B1C4178D5}|Abstratos\\Abstratos.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\abstratos\\abstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920650D2-52EE-455B-942B-464B1C4178D5}|Abstratos\\Abstratos.csproj|solutionrelative:abstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920650D2-52EE-455B-942B-464B1C4178D5}|Abstratos\\Abstratos.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\abstratos\\abstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920650D2-52EE-455B-942B-464B1C4178D5}|Abstratos\\Abstratos.csproj|solutionrelative:abstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920650D2-52EE-455B-942B-464B1C4178D5}|Abstratos\\Abstratos.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\abstratos\\abstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920650D2-52EE-455B-942B-464B1C4178D5}|Abstratos\\Abstratos.csproj|solutionrelative:abstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\Abstratos\\Abstratos\\Program.cs",
+              "RelativeDocumentMoniker": "Abstratos\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\Abstratos\\Abstratos\\Program.cs*",
+              "RelativeToolTip": "Abstratos\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:27:42.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\Abstratos\\Abstratos\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "Abstratos\\Entities\\Shape.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\Abstratos\\Abstratos\\Entities\\Shape.cs",
+              "RelativeToolTip": "Abstratos\\Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:28:26.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\Abstratos\\Abstratos\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "Abstratos\\Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\Abstratos\\Abstratos\\Entities\\Circle.cs",
+              "RelativeToolTip": "Abstratos\\Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:36:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\Abstratos\\Abstratos\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Abstratos\\Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\Abstratos\\Abstratos\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "Abstratos\\Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:31:32.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\Abstratos\\Abstratos\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "Abstratos\\Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\Abstratos\\Abstratos\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "Abstratos\\Entities\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:29:18.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
