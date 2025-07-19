@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\bin\Debug\net8.0\AbstratosExercicioFixacao.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\bin\Debug\net8.0\AbstratosExercicioFixacao.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\bin\Debug\net8.0\AbstratosExercicioFixacao.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\bin\Debug\net8.0\AbstratosExercicioFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\bin\Debug\net8.0\AbstratosExercicioFixacao.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\obj\Debug\net8.0\AbstratosExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\obj\Debug\net8.0\AbstratosExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\obj\Debug\net8.0\AbstratosExercicioFixacao.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\obj\Debug\net8.0\AbstratosExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\obj\Debug\net8.0\AbstratosExercicioFixacao.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\obj\Debug\net8.0\AbstratosExercicioFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\obj\Debug\net8.0\refint\AbstratosExercicioFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\obj\Debug\net8.0\AbstratosExercicioFixacao.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\obj\Debug\net8.0\AbstratosExercicioFixacao.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\AbstratosExercicioFixacao\AbstratosExercicioFixacao\obj\Debug\net8.0\ref\AbstratosExercicioFixacao.dll

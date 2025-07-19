@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AbstratosExercicioFixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1132763D-14C0-4632-987E-FA3A917FF38B}|AbstratosExercicioFixacao\\AbstratosExercicioFixacao.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\abstratosexerciciofixacao\\abstratosexerciciofixacao\\entities\\personjuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1132763D-14C0-4632-987E-FA3A917FF38B}|AbstratosExercicioFixacao\\AbstratosExercicioFixacao.csproj|solutionrelative:abstratosexerciciofixacao\\entities\\personjuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1132763D-14C0-4632-987E-FA3A917FF38B}|AbstratosExercicioFixacao\\AbstratosExercicioFixacao.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\abstratosexerciciofixacao\\abstratosexerciciofixacao\\entities\\personfisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1132763D-14C0-4632-987E-FA3A917FF38B}|AbstratosExercicioFixacao\\AbstratosExercicioFixacao.csproj|solutionrelative:abstratosexerciciofixacao\\entities\\personfisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1132763D-14C0-4632-987E-FA3A917FF38B}|AbstratosExercicioFixacao\\AbstratosExercicioFixacao.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\abstratosexerciciofixacao\\abstratosexerciciofixacao\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1132763D-14C0-4632-987E-FA3A917FF38B}|AbstratosExercicioFixacao\\AbstratosExercicioFixacao.csproj|solutionrelative:abstratosexerciciofixacao\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1132763D-14C0-4632-987E-FA3A917FF38B}|AbstratosExercicioFixacao\\AbstratosExercicioFixacao.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\abstratosexerciciofixacao\\abstratosexerciciofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1132763D-14C0-4632-987E-FA3A917FF38B}|AbstratosExercicioFixacao\\AbstratosExercicioFixacao.csproj|solutionrelative:abstratosexerciciofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonJuridica.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AbstratosExercicioFixacao\\AbstratosExercicioFixacao\\Entities\\PersonJuridica.cs",
+              "RelativeDocumentMoniker": "AbstratosExercicioFixacao\\Entities\\PersonJuridica.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AbstratosExercicioFixacao\\AbstratosExercicioFixacao\\Entities\\PersonJuridica.cs",
+              "RelativeToolTip": "AbstratosExercicioFixacao\\Entities\\PersonJuridica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:57:17.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonFisica.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AbstratosExercicioFixacao\\AbstratosExercicioFixacao\\Entities\\PersonFisica.cs",
+              "RelativeDocumentMoniker": "AbstratosExercicioFixacao\\Entities\\PersonFisica.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AbstratosExercicioFixacao\\AbstratosExercicioFixacao\\Entities\\PersonFisica.cs",
+              "RelativeToolTip": "AbstratosExercicioFixacao\\Entities\\PersonFisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:57:10.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AbstratosExercicioFixacao\\AbstratosExercicioFixacao\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "AbstratosExercicioFixacao\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AbstratosExercicioFixacao\\AbstratosExercicioFixacao\\Entities\\Person.cs",
+              "RelativeToolTip": "AbstratosExercicioFixacao\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:50:45.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AbstratosExercicioFixacao\\AbstratosExercicioFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "AbstratosExercicioFixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\AbstratosExercicioFixacao\\AbstratosExercicioFixacao\\Program.cs",
+              "RelativeToolTip": "AbstratosExercicioFixacao\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:48:28.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
