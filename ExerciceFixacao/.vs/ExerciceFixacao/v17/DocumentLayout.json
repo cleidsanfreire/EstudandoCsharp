@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceFixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28EE856F-5526-4551-8AA8-35965E8B35AF}|ExerciceFixacao\\ExerciceFixacao.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exercicefixacao\\exercicefixacao\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EE856F-5526-4551-8AA8-35965E8B35AF}|ExerciceFixacao\\ExerciceFixacao.csproj|solutionrelative:exercicefixacao\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EE856F-5526-4551-8AA8-35965E8B35AF}|ExerciceFixacao\\ExerciceFixacao.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exercicefixacao\\exercicefixacao\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EE856F-5526-4551-8AA8-35965E8B35AF}|ExerciceFixacao\\ExerciceFixacao.csproj|solutionrelative:exercicefixacao\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EE856F-5526-4551-8AA8-35965E8B35AF}|ExerciceFixacao\\ExerciceFixacao.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exercicefixacao\\exercicefixacao\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EE856F-5526-4551-8AA8-35965E8B35AF}|ExerciceFixacao\\ExerciceFixacao.csproj|solutionrelative:exercicefixacao\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EE856F-5526-4551-8AA8-35965E8B35AF}|ExerciceFixacao\\ExerciceFixacao.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exercicefixacao\\exercicefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EE856F-5526-4551-8AA8-35965E8B35AF}|ExerciceFixacao\\ExerciceFixacao.csproj|solutionrelative:exercicefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceFixacao\\ExerciceFixacao\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ExerciceFixacao\\Entities\\UsedProduct.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceFixacao\\ExerciceFixacao\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ExerciceFixacao\\Entities\\UsedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:55:47.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceFixacao\\ExerciceFixacao\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ExerciceFixacao\\Entities\\ImportedProduct.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceFixacao\\ExerciceFixacao\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "ExerciceFixacao\\Entities\\ImportedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:51:33.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceFixacao\\ExerciceFixacao\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExerciceFixacao\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceFixacao\\ExerciceFixacao\\Entities\\Product.cs",
+              "RelativeToolTip": "ExerciceFixacao\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:43:46.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceFixacao\\ExerciceFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciceFixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceFixacao\\ExerciceFixacao\\Program.cs",
+              "RelativeToolTip": "ExerciceFixacao\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:40:21.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

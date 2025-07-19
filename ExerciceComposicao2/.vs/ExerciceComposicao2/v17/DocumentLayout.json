@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceComposicao2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B46019B8-542E-4CD4-B309-A47FFCE4A8A7}|ExerciceComposicao2\\ExerciceComposicao2.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exercicecomposicao2\\exercicecomposicao2\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B46019B8-542E-4CD4-B309-A47FFCE4A8A7}|ExerciceComposicao2\\ExerciceComposicao2.csproj|solutionrelative:exercicecomposicao2\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B46019B8-542E-4CD4-B309-A47FFCE4A8A7}|ExerciceComposicao2\\ExerciceComposicao2.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exercicecomposicao2\\exercicecomposicao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B46019B8-542E-4CD4-B309-A47FFCE4A8A7}|ExerciceComposicao2\\ExerciceComposicao2.csproj|solutionrelative:exercicecomposicao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B46019B8-542E-4CD4-B309-A47FFCE4A8A7}|ExerciceComposicao2\\ExerciceComposicao2.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exercicecomposicao2\\exercicecomposicao2\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B46019B8-542E-4CD4-B309-A47FFCE4A8A7}|ExerciceComposicao2\\ExerciceComposicao2.csproj|solutionrelative:exercicecomposicao2\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46019B8-542E-4CD4-B309-A47FFCE4A8A7}|ExerciceComposicao2\\ExerciceComposicao2.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exercicecomposicao2\\exercicecomposicao2\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46019B8-542E-4CD4-B309-A47FFCE4A8A7}|ExerciceComposicao2\\ExerciceComposicao2.csproj|solutionrelative:exercicecomposicao2\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceComposicao2\\ExerciceComposicao2\\Entities\\Post.cs",
               "RelativeDocumentMoniker": "ExerciceComposicao2\\Entities\\Post.cs",
               "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceComposicao2\\ExerciceComposicao2\\Entities\\Post.cs",
               "RelativeToolTip": "ExerciceComposicao2\\Entities\\Post.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCMAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T03:35:34.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceComposicao2\\ExerciceComposicao2\\Entities\\Comment.cs",
               "RelativeDocumentMoniker": "ExerciceComposicao2\\Entities\\Comment.cs",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceComposicao2\\ExerciceComposicao2\\Program.cs",
               "RelativeDocumentMoniker": "ExerciceComposicao2\\Program.cs",
               "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceComposicao2\\ExerciceComposicao2\\Program.cs",
               "RelativeToolTip": "ExerciceComposicao2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T02:30:57.095Z",
               "EditorCaption": ""

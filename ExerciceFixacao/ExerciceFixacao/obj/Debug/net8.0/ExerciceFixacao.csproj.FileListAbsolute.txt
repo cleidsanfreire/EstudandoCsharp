@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\bin\Debug\net8.0\ExerciceFixacao.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\bin\Debug\net8.0\ExerciceFixacao.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\bin\Debug\net8.0\ExerciceFixacao.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\bin\Debug\net8.0\ExerciceFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\bin\Debug\net8.0\ExerciceFixacao.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\obj\Debug\net8.0\ExerciceFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\obj\Debug\net8.0\ExerciceFixacao.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\obj\Debug\net8.0\ExerciceFixacao.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\obj\Debug\net8.0\ExerciceFixacao.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\obj\Debug\net8.0\ExerciceFixacao.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\obj\Debug\net8.0\ExerciceFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\obj\Debug\net8.0\refint\ExerciceFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\obj\Debug\net8.0\ExerciceFixacao.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\obj\Debug\net8.0\ExerciceFixacao.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceFixacao\ExerciceFixacao\obj\Debug\net8.0\ref\ExerciceFixacao.dll
