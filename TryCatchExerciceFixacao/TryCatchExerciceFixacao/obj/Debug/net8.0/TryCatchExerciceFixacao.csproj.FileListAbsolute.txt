@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\bin\Debug\net8.0\TryCatchExerciceFixacao.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\bin\Debug\net8.0\TryCatchExerciceFixacao.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\bin\Debug\net8.0\TryCatchExerciceFixacao.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\bin\Debug\net8.0\TryCatchExerciceFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\bin\Debug\net8.0\TryCatchExerciceFixacao.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\obj\Debug\net8.0\TryCatchExerciceFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\obj\Debug\net8.0\TryCatchExerciceFixacao.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\obj\Debug\net8.0\TryCatchExerciceFixacao.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\obj\Debug\net8.0\TryCatchExerciceFixacao.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\obj\Debug\net8.0\TryCatchExerciceFixacao.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\obj\Debug\net8.0\TryCatchExerciceFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\obj\Debug\net8.0\refint\TryCatchExerciceFixacao.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\obj\Debug\net8.0\TryCatchExerciceFixacao.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\obj\Debug\net8.0\TryCatchExerciceFixacao.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceFixacao\TryCatchExerciceFixacao\obj\Debug\net8.0\ref\TryCatchExerciceFixacao.dll
