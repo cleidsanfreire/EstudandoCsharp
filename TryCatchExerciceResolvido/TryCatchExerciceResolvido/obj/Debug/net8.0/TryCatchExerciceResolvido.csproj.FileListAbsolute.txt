@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\bin\Debug\net8.0\TryCatchExerciceResolvido.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\bin\Debug\net8.0\TryCatchExerciceResolvido.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\bin\Debug\net8.0\TryCatchExerciceResolvido.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\bin\Debug\net8.0\TryCatchExerciceResolvido.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\bin\Debug\net8.0\TryCatchExerciceResolvido.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\obj\Debug\net8.0\TryCatchExerciceResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\obj\Debug\net8.0\TryCatchExerciceResolvido.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\obj\Debug\net8.0\TryCatchExerciceResolvido.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\obj\Debug\net8.0\TryCatchExerciceResolvido.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\obj\Debug\net8.0\TryCatchExerciceResolvido.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\obj\Debug\net8.0\TryCatchExerciceResolvido.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\obj\Debug\net8.0\refint\TryCatchExerciceResolvido.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\obj\Debug\net8.0\TryCatchExerciceResolvido.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\obj\Debug\net8.0\TryCatchExerciceResolvido.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\TryCatchExerciceResolvido\TryCatchExerciceResolvido\obj\Debug\net8.0\ref\TryCatchExerciceResolvido.dll
