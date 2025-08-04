@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStremEReader", "FileStremEReader\FileStremEReader.csproj", "{063F8F3C-B120-4623-9E19-E7C6C1384E01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{063F8F3C-B120-4623-9E19-E7C6C1384E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063F8F3C-B120-4623-9E19-E7C6C1384E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063F8F3C-B120-4623-9E19-E7C6C1384E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063F8F3C-B120-4623-9E19-E7C6C1384E01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADDB1353-9FD9-4976-9199-023A360D5E73}
+	EndGlobalSection
+EndGlobal

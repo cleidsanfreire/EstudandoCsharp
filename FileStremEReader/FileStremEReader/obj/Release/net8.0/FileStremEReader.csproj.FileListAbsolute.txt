@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\bin\Release\net8.0\FileStremEReader.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\bin\Release\net8.0\FileStremEReader.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\bin\Release\net8.0\FileStremEReader.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\bin\Release\net8.0\FileStremEReader.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\bin\Release\net8.0\FileStremEReader.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\obj\Release\net8.0\FileStremEReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\obj\Release\net8.0\FileStremEReader.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\obj\Release\net8.0\FileStremEReader.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\obj\Release\net8.0\FileStremEReader.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\obj\Release\net8.0\FileStremEReader.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\obj\Release\net8.0\FileStremEReader.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\obj\Release\net8.0\refint\FileStremEReader.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\obj\Release\net8.0\FileStremEReader.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\obj\Release\net8.0\FileStremEReader.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FileStremEReader\FileStremEReader\obj\Release\net8.0\ref\FileStremEReader.dll

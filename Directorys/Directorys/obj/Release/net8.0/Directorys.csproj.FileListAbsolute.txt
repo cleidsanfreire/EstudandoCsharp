@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\obj\Release\net8.0\Directorys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\obj\Release\net8.0\Directorys.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\obj\Release\net8.0\Directorys.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\obj\Release\net8.0\Directorys.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\obj\Release\net8.0\Directorys.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\bin\Release\net8.0\Directorys.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\bin\Release\net8.0\Directorys.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\bin\Release\net8.0\Directorys.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\bin\Release\net8.0\Directorys.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\bin\Release\net8.0\Directorys.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\obj\Release\net8.0\Directorys.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\obj\Release\net8.0\refint\Directorys.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\obj\Release\net8.0\Directorys.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\obj\Release\net8.0\Directorys.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\Directorys\Directorys\obj\Release\net8.0\ref\Directorys.dll

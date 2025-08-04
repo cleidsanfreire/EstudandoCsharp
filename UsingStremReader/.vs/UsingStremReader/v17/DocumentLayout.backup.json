@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\UsingStremReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{902B0D13-09CD-4533-B5C4-AA87BBA0678C}|UsingStremReader\\UsingStremReader.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\usingstremreader\\usingstremreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902B0D13-09CD-4533-B5C4-AA87BBA0678C}|UsingStremReader\\UsingStremReader.csproj|solutionrelative:usingstremreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\UsingStremReader\\UsingStremReader\\Program.cs",
+              "RelativeDocumentMoniker": "UsingStremReader\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\UsingStremReader\\UsingStremReader\\Program.cs*",
+              "RelativeToolTip": "UsingStremReader\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:50:07.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

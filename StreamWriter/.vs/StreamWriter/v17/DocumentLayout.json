@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\StreamWriter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB777E23-B52E-463B-BF5F-A723503DF7A9}|StreamWriter\\StreamWriter.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\streamwriter\\streamwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB777E23-B52E-463B-BF5F-A723503DF7A9}|StreamWriter\\StreamWriter.csproj|solutionrelative:streamwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\StreamWriter\\StreamWriter\\Program.cs",
+              "RelativeDocumentMoniker": "StreamWriter\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\StreamWriter\\StreamWriter\\Program.cs",
+              "RelativeToolTip": "StreamWriter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:05:42.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

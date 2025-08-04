@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\bin\Debug\net8.0\UsingStremReader.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\bin\Debug\net8.0\UsingStremReader.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\bin\Debug\net8.0\UsingStremReader.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\bin\Debug\net8.0\UsingStremReader.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\bin\Debug\net8.0\UsingStremReader.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\obj\Debug\net8.0\UsingStremReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\obj\Debug\net8.0\UsingStremReader.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\obj\Debug\net8.0\UsingStremReader.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\obj\Debug\net8.0\UsingStremReader.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\obj\Debug\net8.0\UsingStremReader.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\obj\Debug\net8.0\UsingStremReader.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\obj\Debug\net8.0\refint\UsingStremReader.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\obj\Debug\net8.0\UsingStremReader.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\obj\Debug\net8.0\UsingStremReader.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\UsingStremReader\UsingStremReader\obj\Debug\net8.0\ref\UsingStremReader.dll
