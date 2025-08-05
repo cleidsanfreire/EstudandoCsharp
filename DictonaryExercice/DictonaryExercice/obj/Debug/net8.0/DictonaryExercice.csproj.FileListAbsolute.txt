@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\bin\Debug\net8.0\DictonaryExercice.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\bin\Debug\net8.0\DictonaryExercice.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\bin\Debug\net8.0\DictonaryExercice.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\bin\Debug\net8.0\DictonaryExercice.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\bin\Debug\net8.0\DictonaryExercice.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\obj\Debug\net8.0\DictonaryExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\obj\Debug\net8.0\DictonaryExercice.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\obj\Debug\net8.0\DictonaryExercice.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\obj\Debug\net8.0\DictonaryExercice.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\obj\Debug\net8.0\DictonaryExercice.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\obj\Debug\net8.0\DictonaryExercice.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\obj\Debug\net8.0\refint\DictonaryExercice.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\obj\Debug\net8.0\DictonaryExercice.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\obj\Debug\net8.0\DictonaryExercice.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictonaryExercice\DictonaryExercice\obj\Debug\net8.0\ref\DictonaryExercice.dll

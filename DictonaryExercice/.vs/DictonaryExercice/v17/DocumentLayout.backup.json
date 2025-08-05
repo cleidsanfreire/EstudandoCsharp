@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{47EA04C7-7C47-4879-84C5-80370E872398}|DictonaryExercice\\DictonaryExercice.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\dictonaryexercice\\dictonaryexercice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47EA04C7-7C47-4879-84C5-80370E872398}|DictonaryExercice\\DictonaryExercice.csproj|solutionrelative:dictonaryexercice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EA04C7-7C47-4879-84C5-80370E872398}|DictonaryExercice\\DictonaryExercice.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\dictonaryexercice\\dictonaryexercice\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EA04C7-7C47-4879-84C5-80370E872398}|DictonaryExercice\\DictonaryExercice.csproj|solutionrelative:dictonaryexercice\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DictonaryExercice\\DictonaryExercice\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "DictonaryExercice\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DictonaryExercice\\DictonaryExercice\\Entities\\Product.cs",
+              "RelativeToolTip": "DictonaryExercice\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T12:17:55.25Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DictonaryExercice\\DictonaryExercice\\Program.cs",
               "RelativeDocumentMoniker": "DictonaryExercice\\Program.cs",
-              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DictonaryExercice\\DictonaryExercice\\Program.cs",
-              "RelativeToolTip": "DictonaryExercice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DictonaryExercice\\DictonaryExercice\\Program.cs*",
+              "RelativeToolTip": "DictonaryExercice\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-04T12:16:06.376Z",
               "EditorCaption": ""

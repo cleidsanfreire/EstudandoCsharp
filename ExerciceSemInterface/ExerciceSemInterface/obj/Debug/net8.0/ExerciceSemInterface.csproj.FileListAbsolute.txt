@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\bin\Debug\net8.0\ExerciceSemInterface.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\bin\Debug\net8.0\ExerciceSemInterface.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\bin\Debug\net8.0\ExerciceSemInterface.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\bin\Debug\net8.0\ExerciceSemInterface.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\bin\Debug\net8.0\ExerciceSemInterface.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\obj\Debug\net8.0\ExerciceSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\obj\Debug\net8.0\ExerciceSemInterface.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\obj\Debug\net8.0\ExerciceSemInterface.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\obj\Debug\net8.0\ExerciceSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\obj\Debug\net8.0\ExerciceSemInterface.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\obj\Debug\net8.0\ExerciceSemInterface.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\obj\Debug\net8.0\refint\ExerciceSemInterface.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\obj\Debug\net8.0\ExerciceSemInterface.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\obj\Debug\net8.0\ExerciceSemInterface.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceSemInterface\ExerciceSemInterface\obj\Debug\net8.0\ref\ExerciceSemInterface.dll

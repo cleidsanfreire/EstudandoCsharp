@@ -20,5 +20,10 @@ namespace DictonaryExercice.Entities
             Price = price;
             Quantity = quantity;
         }
+
+        public double TotalPrice()
+        {
+            return Price * Quantity;
+        }
     }
 }
