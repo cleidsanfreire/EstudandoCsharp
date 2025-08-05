@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciceSemInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d74af1acd24eb3276dc463ebcf8022b420be9107")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2572ad1827a6b87553182445c827b5e4c7984433")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciceSemInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciceSemInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

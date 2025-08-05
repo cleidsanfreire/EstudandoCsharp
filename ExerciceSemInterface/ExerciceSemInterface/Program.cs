@@ -23,7 +23,7 @@ namespace ExerciceSemInterface
 
             CarRental carRental = new CarRental(dateStart, dateFinish, new Vehicle(nameModel));
 
-            RentalService rentalService = new RentalService(hour, day);
+            RentalService rentalService = new RentalService(hour, day, new BrazilTaxService());
 
             rentalService.ProcessInovice(carRental);
 
