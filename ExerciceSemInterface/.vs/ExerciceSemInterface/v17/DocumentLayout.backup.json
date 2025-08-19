@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exerciceseminterface\\exerciceseminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|solutionrelative:exerciceseminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exerciceseminterface\\exerciceseminterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|solutionrelative:exerciceseminterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exerciceseminterface\\exerciceseminterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|solutionrelative:exerciceseminterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exerciceseminterface\\exerciceseminterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|solutionrelative:exerciceseminterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exerciceseminterface\\exerciceseminterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|solutionrelative:exerciceseminterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exerciceseminterface\\exerciceseminterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|solutionrelative:exerciceseminterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exerciceseminterface\\exerciceseminterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|solutionrelative:exerciceseminterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exerciceseminterface\\exerciceseminterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|solutionrelative:exerciceseminterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\exerciceseminterface\\exerciceseminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A96561-AAA1-4658-9824-F7D6D78E1AF9}|ExerciceSemInterface\\ExerciceSemInterface.csproj|solutionrelative:exerciceseminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BrazilTaxService.cs",
-              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Services\\BrazilTaxService.cs",
-              "RelativeDocumentMoniker": "ExerciceSemInterface\\Services\\BrazilTaxService.cs",
-              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Services\\BrazilTaxService.cs",
-              "RelativeToolTip": "ExerciceSemInterface\\Services\\BrazilTaxService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T15:11:42.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarRental.cs",
-              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Entities\\CarRental.cs",
-              "RelativeDocumentMoniker": "ExerciceSemInterface\\Entities\\CarRental.cs",
-              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Entities\\CarRental.cs",
-              "RelativeToolTip": "ExerciceSemInterface\\Entities\\CarRental.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T15:00:29.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ITaxService.cs",
-              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Services\\ITaxService.cs",
-              "RelativeDocumentMoniker": "ExerciceSemInterface\\Services\\ITaxService.cs",
-              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Services\\ITaxService.cs",
-              "RelativeToolTip": "ExerciceSemInterface\\Services\\ITaxService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T03:06:49.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "RentalService.cs",
               "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Services\\RentalService.cs",
               "RelativeDocumentMoniker": "ExerciceSemInterface\\Services\\RentalService.cs",
               "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Services\\RentalService.cs",
               "RelativeToolTip": "ExerciceSemInterface\\Services\\RentalService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T15:11:50.432Z",
+              "WhenOpened": "2025-08-13T20:08:01.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Entities\\Invoice.cs",
-              "RelativeDocumentMoniker": "ExerciceSemInterface\\Entities\\Invoice.cs",
-              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Entities\\Invoice.cs",
-              "RelativeToolTip": "ExerciceSemInterface\\Entities\\Invoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAxAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "ExerciceSemInterface\\Services\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Services\\ITaxService.cs",
+              "RelativeToolTip": "ExerciceSemInterface\\Services\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T14:54:05.249Z",
+              "WhenOpened": "2025-08-13T20:07:58.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Entities\\Vehicle.cs",
-              "RelativeDocumentMoniker": "ExerciceSemInterface\\Entities\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Entities\\Vehicle.cs",
-              "RelativeToolTip": "ExerciceSemInterface\\Entities\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "ExerciceSemInterface\\Services\\BrazilTaxService.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "ExerciceSemInterface\\Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T14:53:19.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Program.cs",
-              "RelativeDocumentMoniker": "ExerciceSemInterface\\Program.cs",
-              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ExerciceSemInterface\\ExerciceSemInterface\\Program.cs",
-              "RelativeToolTip": "ExerciceSemInterface\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwB0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T14:29:42.504Z",
+              "WhenOpened": "2025-08-13T20:08:09.244Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,4 @@
+C:\Users\loock\VisualStudioProjetos\Mobile\ExerciceFixacaoInterface\ExerciceFixacaoInterface\obj\Debug\net8.0\ExerciceFixacaoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\Mobile\ExerciceFixacaoInterface\ExerciceFixacaoInterface\obj\Debug\net8.0\ExerciceFixacaoInterface.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\Mobile\ExerciceFixacaoInterface\ExerciceFixacaoInterface\obj\Debug\net8.0\ExerciceFixacaoInterface.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\Mobile\ExerciceFixacaoInterface\ExerciceFixacaoInterface\obj\Debug\net8.0\ExerciceFixacaoInterface.csproj.CoreCompileInputs.cache
