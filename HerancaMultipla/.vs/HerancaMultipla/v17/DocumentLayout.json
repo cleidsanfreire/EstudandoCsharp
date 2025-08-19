@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\herancamultipla\\herancamultipla\\model\\entities\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\model\\entities\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\herancamultipla\\herancamultipla\\model\\entities\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\model\\entities\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\herancamultipla\\herancamultipla\\model\\entities\\combodevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\model\\entities\\combodevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\herancamultipla\\herancamultipla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\herancamultipla\\herancamultipla\\model\\entities\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\model\\entities\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\herancamultipla\\herancamultipla\\model\\entities\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\model\\entities\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\herancamultipla\\herancamultipla\\model\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA968438-DE37-419A-B976-AE17920C1BEC}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\model\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComboDevices.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\ComboDevices.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Model\\Entities\\ComboDevices.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\ComboDevices.cs",
+              "RelativeToolTip": "HerancaMultipla\\Model\\Entities\\ComboDevices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:10:52.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\Printer.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Model\\Entities\\Printer.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\Printer.cs",
+              "RelativeToolTip": "HerancaMultipla\\Model\\Entities\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:56:12.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\Scanner.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Model\\Entities\\Scanner.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\Scanner.cs",
+              "RelativeToolTip": "HerancaMultipla\\Model\\Entities\\Scanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:52:48.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\IPrinter.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Model\\Entities\\IPrinter.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\IPrinter.cs",
+              "RelativeToolTip": "HerancaMultipla\\Model\\Entities\\IPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:51:49.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\IScanner.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Model\\Entities\\IScanner.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\IScanner.cs",
+              "RelativeToolTip": "HerancaMultipla\\Model\\Entities\\IScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:51:20.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\Device.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Model\\Entities\\Device.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Model\\Entities\\Device.cs",
+              "RelativeToolTip": "HerancaMultipla\\Model\\Entities\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:49:06.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Program.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\HerancaMultipla\\HerancaMultipla\\Program.cs",
+              "RelativeToolTip": "HerancaMultipla\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:42:46.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
