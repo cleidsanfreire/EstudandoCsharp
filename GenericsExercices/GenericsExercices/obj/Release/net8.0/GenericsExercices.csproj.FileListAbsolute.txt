@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\bin\Release\net8.0\GenericsExercices.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\bin\Release\net8.0\GenericsExercices.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\bin\Release\net8.0\GenericsExercices.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\bin\Release\net8.0\GenericsExercices.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\bin\Release\net8.0\GenericsExercices.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\obj\Release\net8.0\GenericsExercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\obj\Release\net8.0\GenericsExercices.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\obj\Release\net8.0\GenericsExercices.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\obj\Release\net8.0\GenericsExercices.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\obj\Release\net8.0\GenericsExercices.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\obj\Release\net8.0\GenericsExercices.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\obj\Release\net8.0\refint\GenericsExercices.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\obj\Release\net8.0\GenericsExercices.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\obj\Release\net8.0\GenericsExercices.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GenericsExercices\GenericsExercices\obj\Release\net8.0\ref\GenericsExercices.dll

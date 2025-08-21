@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\refint\InterfaceComparable.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\ref\InterfaceComparable.dll

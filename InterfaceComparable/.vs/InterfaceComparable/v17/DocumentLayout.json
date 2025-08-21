@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\InterfaceComparable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B10508F-3F19-4250-B4C4-7D2E64ED6849}|InterfaceComparable\\InterfaceComparable.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\interfacecomparable\\interfacecomparable\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B10508F-3F19-4250-B4C4-7D2E64ED6849}|InterfaceComparable\\InterfaceComparable.csproj|solutionrelative:interfacecomparable\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B10508F-3F19-4250-B4C4-7D2E64ED6849}|InterfaceComparable\\InterfaceComparable.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\interfacecomparable\\interfacecomparable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B10508F-3F19-4250-B4C4-7D2E64ED6849}|InterfaceComparable\\InterfaceComparable.csproj|solutionrelative:interfacecomparable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\InterfaceComparable\\InterfaceComparable\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "InterfaceComparable\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\InterfaceComparable\\InterfaceComparable\\Entities\\Employee.cs",
+              "RelativeToolTip": "InterfaceComparable\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:07:37.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\InterfaceComparable\\InterfaceComparable\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceComparable\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\InterfaceComparable\\InterfaceComparable\\Program.cs",
+              "RelativeToolTip": "InterfaceComparable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:40:09.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
