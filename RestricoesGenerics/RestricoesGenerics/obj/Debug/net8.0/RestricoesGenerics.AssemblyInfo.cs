@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestricoesGenerics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21c107532b78f1df23f8ca8832907ae48c9160e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f126a8dc383f245766ba6248a5e41a5105c15bd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestricoesGenerics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestricoesGenerics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

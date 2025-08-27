@@ -19,7 +19,9 @@ namespace RestricoesGenerics
             }
 
             CalculateService cs = new CalculateService();
+
             int max = cs.Max(list);
+
             Console.WriteLine("Max:");
             Console.WriteLine(max);
         }
