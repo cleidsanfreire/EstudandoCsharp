@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Globalization;
 
 namespace RestricoesGenerics.Entities
 {
-    internal class Product
+    internal class Product : IComparable
     {
         public string Name { get; set; }
         public double Price { get; set; }
@@ -21,6 +16,18 @@ namespace RestricoesGenerics.Entities
         public override string ToString()
         {
             return Name + ", " + Price.ToString("F2", CultureInfo.InvariantCulture) ;
+        }
+
+        public int CompareTo(object? obj)
+        {
+            if (!(obj is Product))
+            {
+                throw new ArgumentException("Esse objeto nao e um produto");
+            }
+
+            Product other = obj as Product;
+
+           return Price.CompareTo(other.Price);
         }
     }
 }
