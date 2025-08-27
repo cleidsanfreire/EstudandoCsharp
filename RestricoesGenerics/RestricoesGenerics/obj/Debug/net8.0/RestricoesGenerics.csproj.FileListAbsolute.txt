@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\bin\Debug\net8.0\RestricoesGenerics.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\bin\Debug\net8.0\RestricoesGenerics.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\bin\Debug\net8.0\RestricoesGenerics.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\bin\Debug\net8.0\RestricoesGenerics.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\bin\Debug\net8.0\RestricoesGenerics.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\refint\RestricoesGenerics.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\ref\RestricoesGenerics.dll
