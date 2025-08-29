@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\bin\Debug\net8.0\GetHashCodeTeo.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\bin\Debug\net8.0\GetHashCodeTeo.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\bin\Debug\net8.0\GetHashCodeTeo.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\bin\Debug\net8.0\GetHashCodeTeo.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\bin\Debug\net8.0\GetHashCodeTeo.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\obj\Debug\net8.0\GetHashCodeTeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\obj\Debug\net8.0\GetHashCodeTeo.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\obj\Debug\net8.0\GetHashCodeTeo.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\obj\Debug\net8.0\GetHashCodeTeo.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\obj\Debug\net8.0\GetHashCodeTeo.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\obj\Debug\net8.0\GetHashCodeTeo.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\obj\Debug\net8.0\refint\GetHashCodeTeo.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\obj\Debug\net8.0\GetHashCodeTeo.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\obj\Debug\net8.0\GetHashCodeTeo.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\GetHashCodeTeo\GetHashCodeTeo\obj\Debug\net8.0\ref\GetHashCodeTeo.dll

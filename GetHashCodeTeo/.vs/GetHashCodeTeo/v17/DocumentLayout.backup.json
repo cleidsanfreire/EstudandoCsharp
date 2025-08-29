@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\GetHashCodeTeo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{149737C0-A80E-44AF-B172-28FA4EB1BCB7}|GetHashCodeTeo\\GetHashCodeTeo.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\gethashcodeteo\\gethashcodeteo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149737C0-A80E-44AF-B172-28FA4EB1BCB7}|GetHashCodeTeo\\GetHashCodeTeo.csproj|solutionrelative:gethashcodeteo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149737C0-A80E-44AF-B172-28FA4EB1BCB7}|GetHashCodeTeo\\GetHashCodeTeo.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\gethashcodeteo\\gethashcodeteo\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149737C0-A80E-44AF-B172-28FA4EB1BCB7}|GetHashCodeTeo\\GetHashCodeTeo.csproj|solutionrelative:gethashcodeteo\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\GetHashCodeTeo\\GetHashCodeTeo\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "GetHashCodeTeo\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\GetHashCodeTeo\\GetHashCodeTeo\\Entities\\Client.cs",
+              "RelativeToolTip": "GetHashCodeTeo\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T02:16:04.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\GetHashCodeTeo\\GetHashCodeTeo\\Program.cs",
+              "RelativeDocumentMoniker": "GetHashCodeTeo\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\GetHashCodeTeo\\GetHashCodeTeo\\Program.cs*",
+              "RelativeToolTip": "GetHashCodeTeo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T02:02:15.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
