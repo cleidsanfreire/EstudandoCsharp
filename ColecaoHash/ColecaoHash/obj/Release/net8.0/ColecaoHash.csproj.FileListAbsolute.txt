@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\bin\Release\net8.0\ColecaoHash.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\bin\Release\net8.0\ColecaoHash.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\bin\Release\net8.0\ColecaoHash.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\bin\Release\net8.0\ColecaoHash.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\bin\Release\net8.0\ColecaoHash.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\obj\Release\net8.0\ColecaoHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\obj\Release\net8.0\ColecaoHash.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\obj\Release\net8.0\ColecaoHash.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\obj\Release\net8.0\ColecaoHash.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\obj\Release\net8.0\ColecaoHash.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\obj\Release\net8.0\ColecaoHash.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\obj\Release\net8.0\refint\ColecaoHash.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\obj\Release\net8.0\ColecaoHash.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\obj\Release\net8.0\ColecaoHash.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ColecaoHash\ColecaoHash\obj\Release\net8.0\ref\ColecaoHash.dll

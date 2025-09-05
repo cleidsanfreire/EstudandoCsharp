@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\bin\Debug\net8.0\ExerciceConjutosResolvido.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\bin\Debug\net8.0\ExerciceConjutosResolvido.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\bin\Debug\net8.0\ExerciceConjutosResolvido.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\bin\Debug\net8.0\ExerciceConjutosResolvido.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\bin\Debug\net8.0\ExerciceConjutosResolvido.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\obj\Debug\net8.0\ExerciceConjutosResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\obj\Debug\net8.0\ExerciceConjutosResolvido.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\obj\Debug\net8.0\ExerciceConjutosResolvido.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\obj\Debug\net8.0\ExerciceConjutosResolvido.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\obj\Debug\net8.0\ExerciceConjutosResolvido.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\obj\Debug\net8.0\ExerciceConjutosResolvido.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\obj\Debug\net8.0\refint\ExerciceConjutosResolvido.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\obj\Debug\net8.0\ExerciceConjutosResolvido.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\obj\Debug\net8.0\ExerciceConjutosResolvido.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExerciceConjutosResolvido\ExerciceConjutosResolvido\obj\Debug\net8.0\ref\ExerciceConjutosResolvido.dll

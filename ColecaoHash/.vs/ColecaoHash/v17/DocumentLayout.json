@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ColecaoHash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF4E637-B1BD-4980-86A9-27E0BDA21489}|ColecaoHash\\ColecaoHash.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\colecaohash\\colecaohash\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF4E637-B1BD-4980-86A9-27E0BDA21489}|ColecaoHash\\ColecaoHash.csproj|solutionrelative:colecaohash\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF4E637-B1BD-4980-86A9-27E0BDA21489}|ColecaoHash\\ColecaoHash.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\colecaohash\\colecaohash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF4E637-B1BD-4980-86A9-27E0BDA21489}|ColecaoHash\\ColecaoHash.csproj|solutionrelative:colecaohash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF4E637-B1BD-4980-86A9-27E0BDA21489}|ColecaoHash\\ColecaoHash.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\colecaohash\\colecaohash\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF4E637-B1BD-4980-86A9-27E0BDA21489}|ColecaoHash\\ColecaoHash.csproj|solutionrelative:colecaohash\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ColecaoHash\\ColecaoHash\\Entities\\Point.cs",
+              "RelativeDocumentMoniker": "ColecaoHash\\Entities\\Point.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ColecaoHash\\ColecaoHash\\Entities\\Point.cs",
+              "RelativeToolTip": "ColecaoHash\\Entities\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T23:53:31.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ColecaoHash\\ColecaoHash\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ColecaoHash\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ColecaoHash\\ColecaoHash\\Entities\\Product.cs",
+              "RelativeToolTip": "ColecaoHash\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T23:46:12.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ColecaoHash\\ColecaoHash\\Program.cs",
+              "RelativeDocumentMoniker": "ColecaoHash\\Program.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\ColecaoHash\\ColecaoHash\\Program.cs",
+              "RelativeToolTip": "ColecaoHash\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T23:45:31.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

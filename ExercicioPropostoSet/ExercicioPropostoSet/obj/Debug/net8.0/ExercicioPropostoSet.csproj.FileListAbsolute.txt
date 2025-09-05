@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\bin\Debug\net8.0\ExercicioPropostoSet.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\bin\Debug\net8.0\ExercicioPropostoSet.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\bin\Debug\net8.0\ExercicioPropostoSet.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\bin\Debug\net8.0\ExercicioPropostoSet.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\bin\Debug\net8.0\ExercicioPropostoSet.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\obj\Debug\net8.0\ExercicioPropostoSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\obj\Debug\net8.0\ExercicioPropostoSet.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\obj\Debug\net8.0\ExercicioPropostoSet.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\obj\Debug\net8.0\ExercicioPropostoSet.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\obj\Debug\net8.0\ExercicioPropostoSet.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\obj\Debug\net8.0\ExercicioPropostoSet.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\obj\Debug\net8.0\refint\ExercicioPropostoSet.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\obj\Debug\net8.0\ExercicioPropostoSet.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\obj\Debug\net8.0\ExercicioPropostoSet.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioPropostoSet\ExercicioPropostoSet\obj\Debug\net8.0\ref\ExercicioPropostoSet.dll

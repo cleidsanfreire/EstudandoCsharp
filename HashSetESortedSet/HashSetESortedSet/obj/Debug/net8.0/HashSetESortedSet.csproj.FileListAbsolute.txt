@@ -1,15 +1,5 @@
-C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\bin\Debug\net8.0\HashSetESortedSet.exe
-C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\bin\Debug\net8.0\HashSetESortedSet.deps.json
-C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\bin\Debug\net8.0\HashSetESortedSet.runtimeconfig.json
-C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\bin\Debug\net8.0\HashSetESortedSet.dll
-C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\bin\Debug\net8.0\HashSetESortedSet.pdb
 C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.AssemblyInfoInputs.cache
 C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.AssemblyInfo.cs
 C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.csproj.CoreCompileInputs.cache
 C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.sourcelink.json
-C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.dll
-C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\obj\Debug\net8.0\refint\HashSetESortedSet.dll
-C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.pdb
-C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.genruntimeconfig.cache
-C:\Users\loock\VisualStudioProjetos\EstudandoCshap\HashSetESortedSet\HashSetESortedSet\obj\Debug\net8.0\ref\HashSetESortedSet.dll

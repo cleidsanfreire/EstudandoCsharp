@@ -4,6 +4,13 @@
     {
         static void Main(string[] args)
         {
+            HashSet<string> set = new HashSet<string>();
+
+            set.Add("Maria");
+            set.Add("Alex");
+
+            Console.WriteLine(set.Contains("Maria"));
+
             SortedSet<int> a = new SortedSet<int>() { 0, 3, 4, 5, 6, 8, 10 };
             SortedSet<int> b = new SortedSet<int>() { 1, 2, 4, 8, 7, 9, 11 };
 
@@ -29,12 +36,12 @@
         }
 
         static void PrintCollection<T>(IEnumerable<T> collection)
-        {
-            foreach (T obj in collection)
             {
-                Console.Write(obj + " ");
+                foreach (T obj in collection)
+                {
+                    Console.Write(obj + " ");
+                }
+                Console.WriteLine();
             }
-            Console.WriteLine();
         }
-    }
 }
