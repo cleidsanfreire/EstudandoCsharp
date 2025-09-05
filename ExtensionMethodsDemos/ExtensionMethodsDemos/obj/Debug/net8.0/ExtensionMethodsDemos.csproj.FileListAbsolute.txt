@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\bin\Debug\net8.0\ExtensionMethodsDemos.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\bin\Debug\net8.0\ExtensionMethodsDemos.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\bin\Debug\net8.0\ExtensionMethodsDemos.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\bin\Debug\net8.0\ExtensionMethodsDemos.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\bin\Debug\net8.0\ExtensionMethodsDemos.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\obj\Debug\net8.0\ExtensionMethodsDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\obj\Debug\net8.0\ExtensionMethodsDemos.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\obj\Debug\net8.0\ExtensionMethodsDemos.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\obj\Debug\net8.0\ExtensionMethodsDemos.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\obj\Debug\net8.0\ExtensionMethodsDemos.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\obj\Debug\net8.0\ExtensionMethodsDemos.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\obj\Debug\net8.0\refint\ExtensionMethodsDemos.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\obj\Debug\net8.0\ExtensionMethodsDemos.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\obj\Debug\net8.0\ExtensionMethodsDemos.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExtensionMethodsDemos\ExtensionMethodsDemos\obj\Debug\net8.0\ref\ExtensionMethodsDemos.dll
