@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\bin\Debug\net8.0\DictionaryExercicioDemo.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\bin\Debug\net8.0\DictionaryExercicioDemo.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\bin\Debug\net8.0\DictionaryExercicioDemo.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\bin\Debug\net8.0\DictionaryExercicioDemo.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\bin\Debug\net8.0\DictionaryExercicioDemo.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\obj\Debug\net8.0\DictionaryExercicioDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\obj\Debug\net8.0\DictionaryExercicioDemo.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\obj\Debug\net8.0\DictionaryExercicioDemo.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\obj\Debug\net8.0\DictionaryExercicioDemo.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\obj\Debug\net8.0\DictionaryExercicioDemo.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\obj\Debug\net8.0\DictionaryExercicioDemo.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\obj\Debug\net8.0\refint\DictionaryExercicioDemo.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\obj\Debug\net8.0\DictionaryExercicioDemo.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\obj\Debug\net8.0\DictionaryExercicioDemo.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\DictionaryExercicioDemo\DictionaryExercicioDemo\obj\Debug\net8.0\ref\DictionaryExercicioDemo.dll
