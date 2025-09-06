@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\bin\Debug\net8.0\LambdaPredicate.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\bin\Debug\net8.0\LambdaPredicate.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\bin\Debug\net8.0\LambdaPredicate.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\bin\Debug\net8.0\LambdaPredicate.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\bin\Debug\net8.0\LambdaPredicate.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\obj\Debug\net8.0\LambdaPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\obj\Debug\net8.0\LambdaPredicate.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\obj\Debug\net8.0\LambdaPredicate.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\obj\Debug\net8.0\LambdaPredicate.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\obj\Debug\net8.0\LambdaPredicate.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\obj\Debug\net8.0\LambdaPredicate.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\obj\Debug\net8.0\refint\LambdaPredicate.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\obj\Debug\net8.0\LambdaPredicate.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\obj\Debug\net8.0\LambdaPredicate.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LambdaPredicate\LambdaPredicate\obj\Debug\net8.0\ref\LambdaPredicate.dll
