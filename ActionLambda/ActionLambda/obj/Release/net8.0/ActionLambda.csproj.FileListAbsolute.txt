@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\bin\Release\net8.0\ActionLambda.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\bin\Release\net8.0\ActionLambda.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\bin\Release\net8.0\ActionLambda.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\bin\Release\net8.0\ActionLambda.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\bin\Release\net8.0\ActionLambda.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\obj\Release\net8.0\ActionLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\obj\Release\net8.0\ActionLambda.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\obj\Release\net8.0\ActionLambda.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\obj\Release\net8.0\ActionLambda.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\obj\Release\net8.0\ActionLambda.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\obj\Release\net8.0\ActionLambda.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\obj\Release\net8.0\refint\ActionLambda.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\obj\Release\net8.0\ActionLambda.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\obj\Release\net8.0\ActionLambda.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ActionLambda\ActionLambda\obj\Release\net8.0\ref\ActionLambda.dll
