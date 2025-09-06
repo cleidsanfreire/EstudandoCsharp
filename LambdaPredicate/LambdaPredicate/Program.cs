@@ -2,7 +2,7 @@
 
 namespace LambdaPredicate
 {
-    class Prgoram
+    class Program
     {
         static void Main(string[] args)
         {
@@ -14,7 +14,7 @@ namespace LambdaPredicate
             prod.Add(new Product("HD Case", 80.90));
 
 
-            prod.RemoveAll(ProductTest);
+            prod.RemoveAll(p => p.Price > 100.0);
 
             foreach (Product p in prod)
             {
@@ -22,9 +22,9 @@ namespace LambdaPredicate
             }
         }
 
-        public static bool ProductTest(Product p)
-        {
-            return p.Price > 100.0;
-        }
+        //public static bool ProductTest(Product p)
+        //{
+        //    return p.Price > 100.0;
+        //}
     }
 }

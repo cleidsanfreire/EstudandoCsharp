@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LambdaPredicate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdf63c2176713daac9479dcd5bf22bd37713a4f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f35f6a04ecf04f8b4ea56f83fa1c70beaa781782")]
 [assembly: System.Reflection.AssemblyProductAttribute("LambdaPredicate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LambdaPredicate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
