@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\bin\Release\net8.0\IntroDelegates.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\bin\Release\net8.0\IntroDelegates.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\bin\Release\net8.0\IntroDelegates.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\bin\Release\net8.0\IntroDelegates.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\bin\Release\net8.0\IntroDelegates.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\obj\Release\net8.0\IntroDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\obj\Release\net8.0\IntroDelegates.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\obj\Release\net8.0\IntroDelegates.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\obj\Release\net8.0\IntroDelegates.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\obj\Release\net8.0\IntroDelegates.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\obj\Release\net8.0\IntroDelegates.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\obj\Release\net8.0\refint\IntroDelegates.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\obj\Release\net8.0\IntroDelegates.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\obj\Release\net8.0\IntroDelegates.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\IntroDelegates\IntroDelegates\obj\Release\net8.0\ref\IntroDelegates.dll
