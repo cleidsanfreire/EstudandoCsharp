@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\bin\Debug\net8.0\FuncSelect.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\obj\Debug\net8.0\FuncSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\obj\Debug\net8.0\FuncSelect.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\obj\Debug\net8.0\FuncSelect.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\obj\Debug\net8.0\FuncSelect.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\obj\Debug\net8.0\FuncSelect.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\obj\Debug\net8.0\FuncSelect.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\obj\Debug\net8.0\refint\FuncSelect.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\obj\Debug\net8.0\FuncSelect.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\bin\Debug\net8.0\FuncSelect.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\bin\Debug\net8.0\FuncSelect.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\bin\Debug\net8.0\FuncSelect.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\bin\Debug\net8.0\FuncSelect.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\obj\Debug\net8.0\FuncSelect.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\FuncSelect\FuncSelect\obj\Debug\net8.0\ref\FuncSelect.dll
