@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\bin\Debug\net8.0\RevisaoLambda.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\bin\Debug\net8.0\RevisaoLambda.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\bin\Debug\net8.0\RevisaoLambda.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\bin\Debug\net8.0\RevisaoLambda.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\bin\Debug\net8.0\RevisaoLambda.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\obj\Debug\net8.0\RevisaoLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\obj\Debug\net8.0\RevisaoLambda.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\obj\Debug\net8.0\RevisaoLambda.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\obj\Debug\net8.0\RevisaoLambda.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\obj\Debug\net8.0\RevisaoLambda.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\obj\Debug\net8.0\RevisaoLambda.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\obj\Debug\net8.0\refint\RevisaoLambda.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\obj\Debug\net8.0\RevisaoLambda.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\obj\Debug\net8.0\RevisaoLambda.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\RevisaoLambda\RevisaoLambda\obj\Debug\net8.0\ref\RevisaoLambda.dll
