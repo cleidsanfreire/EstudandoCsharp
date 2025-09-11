@@ -31,7 +31,7 @@ namespace DemoLinqPT1
                 new Product(10,"Sound Bar",700.00,c3),
                 new Product(11,"Level",70.00,c1)
             };
-
+            // Where e um filtro que retorna apenas o que e descrito no lambda.
             var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900.0);
             Print("TIER 1 AND PRICE < 900.0", r1);
 
@@ -60,6 +60,33 @@ namespace DemoLinqPT1
 
             var r9 = products.Where(p => p.ID == 30).SingleOrDefault();
             Console.WriteLine("Single or default test2: " + r9);
+            Console.WriteLine();
+
+            var r10 = products.Max(p => p.Price);
+            Console.WriteLine("Max price: " + r10);
+            var r11 = products.Min(p => p.Price);
+            Console.WriteLine("Min price: " + r11);
+            var r12 = products.Where(p => p.Category.ID == 1).Sum(p => p.Price);
+            Console.WriteLine("Category 1 Sum price: " + r12);
+            var r13 = products.Where(p => p.Category.ID == 1).Average(p => p.Price);
+            Console.WriteLine("Category 1 Avarage prices: " + r13);
+
+            // Select projeta (extrai) apenas o valor da propriedade "Price" de cada "produto" filtrado.
+            //Ou seja, ele transforma a lista de "Product" em uma lista de "Price" (geralmente decimal, double ou outro tipo numérico).
+            var r14 = products.Where(p => p.Category.ID == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
+            Console.WriteLine("Category 5 Avarage prices: " + r14);
+            Console.WriteLine();
+
+            var r16 = products.GroupBy(p => p.Category);
+            foreach (IGrouping<Category, Product> group in r16)
+            {
+                Console.WriteLine("Category " + group.Key.Name + ": ");
+                foreach (Product p in group)
+                {
+                    Console.WriteLine(p);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }

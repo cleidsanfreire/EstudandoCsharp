@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoLinqPT1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe6cb4d8661de982865d411e199fb3594eb5df2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e793437260a0c16c903a3106bd08b60430a79fe3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoLinqPT1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoLinqPT1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
