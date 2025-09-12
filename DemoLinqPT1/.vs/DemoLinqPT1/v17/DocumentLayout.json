@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DemoLinqPT1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7A80942-1853-4873-BAE2-8486AAFEB0CE}|DemoLinqPT1\\DemoLinqPT1.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\demolinqpt1\\demolinqpt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7A80942-1853-4873-BAE2-8486AAFEB0CE}|DemoLinqPT1\\DemoLinqPT1.csproj|solutionrelative:demolinqpt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7A80942-1853-4873-BAE2-8486AAFEB0CE}|DemoLinqPT1\\DemoLinqPT1.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\demolinqpt1\\demolinqpt1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7A80942-1853-4873-BAE2-8486AAFEB0CE}|DemoLinqPT1\\DemoLinqPT1.csproj|solutionrelative:demolinqpt1\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7A80942-1853-4873-BAE2-8486AAFEB0CE}|DemoLinqPT1\\DemoLinqPT1.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\demolinqpt1\\demolinqpt1\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7A80942-1853-4873-BAE2-8486AAFEB0CE}|DemoLinqPT1\\DemoLinqPT1.csproj|solutionrelative:demolinqpt1\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A80942-1853-4873-BAE2-8486AAFEB0CE}|DemoLinqPT1\\DemoLinqPT1.csproj|c:\\users\\loock\\visualstudioprojetos\\estudandocshap\\demolinqpt1\\demolinqpt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A80942-1853-4873-BAE2-8486AAFEB0CE}|DemoLinqPT1\\DemoLinqPT1.csproj|solutionrelative:demolinqpt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DemoLinqPT1\\DemoLinqPT1\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "DemoLinqPT1\\Entities\\Category.cs",
@@ -34,11 +34,12 @@
               "RelativeToolTip": "DemoLinqPT1\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T00:48:29.411Z"
+              "WhenOpened": "2025-09-08T00:48:29.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DemoLinqPT1\\DemoLinqPT1\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "DemoLinqPT1\\Entities\\Product.cs",
@@ -46,17 +47,18 @@
               "RelativeToolTip": "DemoLinqPT1\\Entities\\Product.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T00:48:04.716Z"
+              "WhenOpened": "2025-09-08T00:48:04.716Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DemoLinqPT1\\DemoLinqPT1\\Program.cs",
               "RelativeDocumentMoniker": "DemoLinqPT1\\Program.cs",
               "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\EstudandoCshap\\DemoLinqPT1\\DemoLinqPT1\\Program.cs",
               "RelativeToolTip": "DemoLinqPT1\\Program.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEYAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwFsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T00:43:29.998Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\bin\Release\net8.0\LinqSimiliarSQL.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\bin\Release\net8.0\LinqSimiliarSQL.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\bin\Release\net8.0\LinqSimiliarSQL.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\bin\Release\net8.0\LinqSimiliarSQL.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\bin\Release\net8.0\LinqSimiliarSQL.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\obj\Release\net8.0\LinqSimiliarSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\obj\Release\net8.0\LinqSimiliarSQL.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\obj\Release\net8.0\LinqSimiliarSQL.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\obj\Release\net8.0\LinqSimiliarSQL.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\obj\Release\net8.0\LinqSimiliarSQL.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\obj\Release\net8.0\LinqSimiliarSQL.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\obj\Release\net8.0\refint\LinqSimiliarSQL.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\obj\Release\net8.0\LinqSimiliarSQL.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\obj\Release\net8.0\LinqSimiliarSQL.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\LinqSimiliarSQL\LinqSimiliarSQL\obj\Release\net8.0\ref\LinqSimiliarSQL.dll
