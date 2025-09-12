@@ -1,0 +1,15 @@
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\bin\Debug\net8.0\ExercicioFixacaoLambda.exe
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\bin\Debug\net8.0\ExercicioFixacaoLambda.deps.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\bin\Debug\net8.0\ExercicioFixacaoLambda.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\bin\Debug\net8.0\ExercicioFixacaoLambda.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\bin\Debug\net8.0\ExercicioFixacaoLambda.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\obj\Debug\net8.0\ExercicioFixacaoLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\obj\Debug\net8.0\ExercicioFixacaoLambda.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\obj\Debug\net8.0\ExercicioFixacaoLambda.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\obj\Debug\net8.0\ExercicioFixacaoLambda.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\obj\Debug\net8.0\ExercicioFixacaoLambda.sourcelink.json
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\obj\Debug\net8.0\ExercicioFixacaoLambda.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\obj\Debug\net8.0\refint\ExercicioFixacaoLambda.dll
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\obj\Debug\net8.0\ExercicioFixacaoLambda.pdb
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\obj\Debug\net8.0\ExercicioFixacaoLambda.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\EstudandoCshap\ExercicioFixacaoLambda\ExercicioFixacaoLambda\obj\Debug\net8.0\ref\ExercicioFixacaoLambda.dll
